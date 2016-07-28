@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NormalOverlayNames" />
+    <string name="StyleSpecificOverlayNames">FrameworkColors</string>
+    <string name="Styles" />
+    <string name="ThemeAuthor">Jeremy Beck</string>
+    <string name="Layers_PluginVersion">3</string>
+    <string name="ThemeChangelog">"What is New in Version 7.2?
+• Substratum Ready!
+• Legacy (Layers) Compatible!
+• Added a couple boot animations back in!
+• Added Play Music Tranparent Widget BG option!
+• Added apps back in:
+    • Layers Manager
+    • AOSP Browswer
+    • Lock Clock
+    • AOSP Messaging
+    • SMS Backup and Restore
+• Added Pure Tools!
+• Added MatLog!
+• Fixed SuperSU!
+• Fixed app icon!
+• Other bug fixes!"</string>
+    <string name="ThemeDescription">"See screenshots of all theme options at https://goo.gl/qaj604"
+<!-- Instructions:
+
+Choose only ONE of the following:
+
+• Framework:
+
+Lollipop "L" (Black or Dark)
+        OR
+Marshmallow "M" (Black or Dark)
+
+• SystemUI:
+
+With Notification Border
+        OR
+Without Notification Borders
+        OR
+With Custom Soft Keys
+        OR
+Without Custom Soft Keys
+
+• Hangouts and Google+:
+
+Play Store Version
+        OR
+Theme Ready Version
+
+• Play Music:
+
+Play Store Widget Background
+        OR
+Transparent Widget Background
+
+• Calc, Clock, Contacts, Dialer, and Keyboard:
+
+AOSP OR Google Version
+
+• Settings Columns Options:
+
+One Column OR Two Columns
+
+COLOR OPTIONS:
+• Acid = Neon Green
+• Acidic Haze = Neon Green and Neon Purple
+• Acidic Steel = Neon Green and Steel Blue
+• AquaLime = Lime Green and Aqua
+• Azure = Dark and Light Blue
+• Blaze = Neon Orange
+• Blazing Diablo = Neon Red and Neon Orange
+• Blazing Steel = Steel Blue and Neon Orange
+• Carolina = Carolina Blue
+• Chief = Maroon and Carolina Blue
+• Christmas = Red and Green
+• Chrome
+• Copper
+• Darq Turq = Turquoise and Dark Turquoise
+• Detroit Lions = Blue and Silver
+• Detroit Tigers = Navy and Orange
+• Diablo = Neon Red
+• Electric Blue
+• Elixir = Blue and Orange
+• Forest = Brown and Green
+• Gladiator = Gold and Purple
+• Grape
+• Haze = Neon Purple
+• Hot Pink
+• Hurricane = Green and Orange
+• Irish Gold = Gold and Green
+• Lagoon = Blue and Green
+• Lavender Field = Soft Purple
+• Liberty - Red, White and Blue
+• Limelight = Soft Green
+• Neapolitan = Pink, White, and Brown
+• PinkPurple = Pastel Pink and Purple
+• Rajah = Soft Orange
+• Roman Empire = Gold and Maroon
+• Slate
+• Spartan = Green and White
+• Steel = Holo Blue
+• Stormy Seas = Blue, Gray and Green
+• Stormy Skies = Dark Blue, Blue and Light Blue
+• Sunny Day = Soft Yellow and Orange
+• Sunrise = Yellow, Orange and Red
+• Vegas Gold" --></string>
+    <string name="ThemeName">Spectrum</string>
+
+    <!-- AOSP Calculator,AOSP Clock,AOSP Contacts, AOSP Dialer,AOSP Keyboard,Browser,CellBroadcastReceiver,Chrome,Chrome Beta,DocumentsUI,ES File Explorer,Framework-res L BLACK,Framework-res L DARK,Framework-res M BLACK,Framework-res M DARK,Gmail,Google Calculator,Google Clock,Google Contacts,Google Dialer,Google Hangouts,Google Hangouts Theme Ready,Google Keyboard,Google Messenger,Google Play Services,Google Plus,Google Plus Theme Ready,Google Velvet,Inbox,Instagram,Layers Manager,LockCLock,Media Provider,Nova,Package Installer,Pandora,Phone,Play Music,Play Music Transparent Widget BG,Play Store,Settings,SuperSU,SystemUI WITH BORDERS,SystemUI WITH BORDERS AND SOFTKEYS,SystemUI NO BORDERS,SystemUI NO BORDERS AND SOFTKEYS,Telecom,TeleService,WhatsApp,YouTube
+
+    Browser,CellBroadcastReceiver,Chrome,Chrome Beta,DocumentsUI,ES File Explorer,Gmail,Google Messenger,Google Play Services,Google Velvet,Inbox,Instagram,Layers Manager,Lock CLock,Media Provider,Nova,Package Installer,Pandora,Phone,Play Store,Settings,SuperSU,Telecom,TeleService,WhatsApp,YouTube
+
+    Acid,Acidic Haze,Acidic Steel,AquaLime,Azure,Blaze,Blazing Diablo,Blazing Steel,Carolina,Chief,Christmas,Chrome,Copper,Darq Turq,Detroit Lions,Detroit Tigers,Diablo,Electric Blue,Elixir,Forest,Gladiator,Grape,Haze,Hot Pink,Hurricane,Irish Gold,Lagoon,Lavender Field,Liberty,Limelight,Neapolitan,Pink Purple,Rajah,Roman Empire,Slate,Spartan,Steel,Stormy Seas,Stormy Skies,Sunny Day,Sunrise,Vegas Gold</string-->
+</resources>

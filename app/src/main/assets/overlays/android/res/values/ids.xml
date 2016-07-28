@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="background" />
+    <item type="id" name="secondaryProgress" />
+    <item type="id" name="progress" />
+    <item type="id" name="title" />
+    <item type="id" name="mask" />
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="profile_button">false</item>
+    <item type="id" name="resolver_list">false</item>
+    <item type="id" name="empty" />
+    <item type="id" name="icon" />
+    <item type="id" name="button_bar">false</item>
+    <item type="id" name="button_once">false</item>
+    <item type="id" name="button_always">false</item>
+    <item type="id" name="text1" />
+    <item type="id" name="left_icon" />
+    <item type="id" name="text2" />
+    <item type="id" name="action0">false</item>
+    <item type="id" name="off">false</item>
+    <item type="id" name="on">false</item>
+    <item type="id" name="up" />
+    <item type="id" name="home" />
+    <item type="id" name="message" />
+</resources>

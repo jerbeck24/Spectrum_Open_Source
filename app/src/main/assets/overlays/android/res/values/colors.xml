@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="primary_text_default_material_dark">@android:color/white</color>
+    <color name="material_deep_teal_200">@android:color/holo_blue_bright</color>
+    <color name="material_deep_teal_500">@android:color/holo_blue_bright</color>
+    <color name="material_blue_grey_800">@android:color/holo_blue_light</color>
+    <color name="material_blue_grey_900">@android:color/holo_blue_light</color>
+    <color name="material_blue_grey_950">@android:color/holo_blue_dark</color>
+    <color name="system_notification_accent_color">@android:color/holo_blue_bright</color>
+    <color name="secondary_text_default_material_light">#ffcccccc</color>
+    <color name="background_floating_material_dark">@android:color/holo_purple</color>
+    <color name="background_material_dark">@android:color/background_dark</color>
+    <color name="primary_material_dark">@android:color/background_dark</color>
+    <color name="background_leanback_dark">@android:color/background_dark</color>
+    <color name="notification_action_color_filter">#fffafafa</color>
+    <color name="notification_progress_background_color">#fffafafa</color>
+    <color name="notification_icon_bg_color">#00000000</color>
+    <color name="dslv_icon_dark">@android:color/holo_blue_bright</color>
+    <color name="ripple_material_dark">#4dffffff</color>
+    <color name="ripple_material_light">#4dffffff</color>
+    <color name="exposed_bg_dark">@android:color/background_dark</color>
+    <color name="exposed_notification_big_pic_bg">@android:color/holo_purple</color>
+    <color name="exposed_resolver_list_bg">@android:color/background_dark</color>
+    <color name="dim_foreground_material_light">@android:color/background_dark</color>
+    <color name="exposed_primary_text_light">#ffdddddd</color>
+    <color name="exposed_secondary_text_light">#ffcccccc</color>
+    <color name="exposed_notify_action_text">#ffdddddd</color>
+    <color name="exposed_TextAppearance.StatusBar.EventContent">#ffffffff</color>
+    <color name="exposed_TextAppearance.StatusBar.EventContent.Emphasis">#fffafafa</color>
+    <color name="exposed_TextAppearance.EasyCorrectSuggestion">#fffafafa</color>
+    <color name="exposed_Widget.Material.Light.Button_TS">#ffffffff</color>
+    <color name="holo_green_light">#ff4caf50</color>
+    <color name="holo_red_light">#fff44336</color>
+    <color name="holo_red_dark">#ffd32f2f</color>
+    <color name="holo_orange_light">#ffff9800</color>
+    <color name="holo_orange_dark">#fff57c00</color>
+    <color name="transparent">#00000000</color>
+    <color name="lock_pattern_view_regular_color">@android:color/holo_blue_bright</color>
+    <color name="global_menu_icon">@android:color/holo_blue_bright</color>
+    <color name="global_menu_icon_enabled">@android:color/holo_blue_bright</color>
+
+    <color name="accent_material_light">@android:color/holo_blue_bright</color>
+    <color name="accent_material_dark">@android:color/holo_blue_bright</color>
+
+    <color name="user_icon_default_gray">@android:color/holo_blue_bright</color>
+    <color name="user_icon_default_white">@android:color/holo_blue_bright</color>
+
+    <color name="app_permission_icon_tint">@android:color/holo_blue_bright</color>
+
+    <color name="notification_media_primary_color">#70ffffff</color>
+    <color name="notification_media_secondary_color">#70ffffff</color>
+    <color name="Red_700">#fff44444</color>
+    <color name="primary_material_light">#fffafafa</color>
+    <color name="exposed_bg_light">#fffafafa</color>
+    <color name="exposed_navigation_bar">@android:color/background_dark</color>
+
+
+
+
+
+
+    <!-- Backgrounds in many UNTHEMED APPS -->
+    <color name="background_material_light">#fffafafa</color>
+
+
+
+
+
+
+    <!-- Cards in many UNTHEMED APPS -->
+    <color name="background_floating_material_light">#ffffffff</color>
+
+
+
+
+
+
+
+    <color name="notification_title_text">@*android:color/Teal_700</color>
+    <color name="notification_content_text">@android:color/holo_blue_bright</color>
+    <color name="regulatory_text_color">@*android:color/Teal_700</color>
+    <color name="safe_mode_text">#ffffffff</color>
+    <color name="primary_text_leanback_dark">@android:color/holo_blue_bright</color>
+    <color name="primary_text_holo_light">@*android:color/Teal_700</color>
+    <color name="primary_text_nodisable_holo_light">@android:color/holo_blue_bright</color>
+    <!-- "Cast to" text when casting to chromecast -->
+    <color name="primary_text_default_material_light">@android:color/holo_blue_bright</color>
+    <color name="primary_text_disable_only_holo_dark">@android:color/holo_blue_bright</color>
+    <color name="primary_text_disable_only_holo_light">@android:color/holo_blue_bright</color>
+    <color name="primary_text_nodisable_holo_dark">@android:color/holo_blue_bright</color>
+    <!-- Text on Buttons in AudioManager -->
+    <color name="primary_text_holo_dark">@*android:color/Teal_700</color>
+    <color name="exposed_primary_text_dark">#ffffffff</color>
+    <!-- Main text in Settings, "Settings' on Actionbar and Search icon, Text color in MANY, MANY, MANY places -->
+    <color name="primary_text_material_dark">#ffffffff</color>
+    <color name="secondary_text_nodisable_holo_dark">#ffcccccc</color>
+    <color name="secondary_text_nodisable_holo_light">#ffcccccc</color>
+    <color name="secondary_text_holo_dark">#ffcccccc</color>
+    <color name="secondary_text_holo_light">#ffcccccc</color>
+    <color name="secondary_text_leanback_dark">#ffcccccc</color>
+    <color name="exposed_secondary_text_dark">#ffcccccc</color>
+    <color name="secondary_text_default_material_dark">#ffcccccc</color>
+    <color name="highlighted_text_holo_dark">@android:color/holo_blue_bright</color>
+    <color name="highlighted_text_holo_light">@android:color/holo_blue_bright</color>
+    <color name="highlighted_text_material_light">#80111111</color>
+    <color name="highlighted_text_material_dark">#80111111</color>
+    <color name="suggestion_highlight_text">@*android:color/Teal_700</color>
+    <color name="highlighted_text_dark">#90ffffff</color>
+    <color name="tertiary_text_holo_dark">@android:color/holo_blue_bright</color>
+    <color name="tertiary_text_holo_light">@android:color/holo_blue_bright</color>
+    <color name="accessibility_focus_highlight">@android:color/holo_blue_bright</color>
+    <color name="bright_foreground_holo_light">@android:color/holo_blue_bright</color>
+    <color name="link_text_dark">@*android:color/Teal_700</color>
+    <color name="link_text_light">@*android:color/Teal_700</color>
+    <color name="search_url_text_holo">@android:color/holo_blue_bright</color>
+    <color name="user_icon_1">@android:color/holo_blue_bright</color>
+    <color name="user_icon_2">@*android:color/Teal_700</color>
+    <color name="user_icon_3">@*android:color/Teal_700</color>
+    <color name="user_icon_4">@*android:color/Teal_700</color>
+    <color name="user_icon_5">@*android:color/Teal_700</color>
+    <color name="user_icon_6">@*android:color/Teal_700</color>
+    <color name="user_icon_7">@*android:color/Teal_700</color>
+    <color name="user_icon_8">@*android:color/Teal_700</color>
+    <color name="battery_saver_mode_color">@*android:color/Teal_700</color>
+    <color name="lock_pattern_view_success_color">@android:color/holo_blue_bright</color>
+    <color name="lock_pattern_view_error_color">@*android:color/Teal_700</color>
+    <color name="drop_start">#ff000000</color>
+    <color name="drop_end">#ff000000</color>
+    <color name="btn_default_material_light">#ffffffff</color>
+    <color name="btn_default_material_dark">@android:color/holo_purple</color>
+    <color name="primary_text_disable_only_material_dark">@android:color/holo_blue_bright</color>
+    <color name="primary_text_disable_only_material_light">@android:color/holo_blue_bright</color>
+    <color name="search_url_text_material_dark">@android:color/holo_blue_bright</color>
+    <color name="search_url_text_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="material_deep_teal_200_tint">#ccffffff</color>
+    <color name="material_deep_teal_500_tint">#ccffffff</color>
+
+    <color name="holo_primary_dark">#ffffffff</color>
+    <color name="holo_light_primary_dark">#ffffffff</color>
+
+    <color name="bright_foreground_light">#ffaaaaaa</color>
+    <color name="dim_foreground_light_disabled">#ffaaaaaa</color>
+    <color name="bright_foreground_material_light">#ffaaaaaa</color>
+    <color name="dim_foreground_holo_light">#ffaaaaaa</color>
+    <color name="holo_gray_light">#ffaaaaaa</color>
+    <color name="holo_gray_bright">#ffaaaaaa</color>
+    <color name="hint_foreground_holo_dark">#ffffffff</color>
+    <color name="hint_foreground_holo_light">#ffffffff</color>
+    <color name="bright_foreground_light_disabled">#ffaaaaaa</color>
+    <color name="bright_foreground_dark_inverse">#ffaaaaaa</color>
+    <color name="bright_foreground_light_inverse">#ffaaaaaa</color>
+    <color name="dim_foreground_dark_inverse">#ffaaaaaa</color>
+    <color name="dim_foreground_dark_inverse_disabled">#ffaaaaaa</color>
+    <color name="dim_foreground_light">#ffaaaaaa</color>
+
+    <color name="config_defaultNotificationColor">#ffffffff</color>
+
+    <color name="exposed_powerdialog_icon_tint">@*android:color/Teal_700</color>
+
+    <color name="switch_thumb_normal_material_dark">#ffcccccc</color>
+    <color name="switch_thumb_normal_material_light">#ffcccccc</color>
+    <color name="switch_thumb_disabled_material_dark">#ffcccccc</color>
+    <color name="switch_thumb_disabled_material_light">#ffcccccc</color>
+    <color name="button_material_dark">#ffcccccc</color>
+    <color name="button_material_light">#ffcccccc</color>
+    <color name="holo_primary_light">#ffffffff</color>
+    <color name="holo_light_primary_light">#ffffffff</color>
+
+
+    <!-- Background of navbar when keyboard is open -->
+    <color name="input_method_navigation_guard">@android:color/background_dark</color>
+    <drawable name="search_bar_default_color">@android:color/holo_purple</drawable>
+
+    <color name="datepicker_default_normal_text_color_material_light">@*android:color/Teal_700</color>
+    <color name="datepicker_default_header_dayofweek_background_color_material_light">@*android:color/Teal_700</color>
+    <color name="timepicker_default_background_holo_light">@android:color/background_dark</color>
+    <color name="timepicker_default_ampm_selected_background_color_holo_light">#ff404040</color>
+    <color name="timepicker_default_ampm_selected_background_color_holo_dark">#ff404040</color>
+    <color name="timepicker_default_ampm_unselected_background_color_holo_light">@android:color/background_dark</color>
+    <color name="datepicker_default_header_selector_background_holo_light">#ff121516</color>
+    <color name="datepicker_default_header_selector_background_holo_dark">#ff121516</color>
+    <color name="datepicker_default_header_dayofweek_background_color_holo_light">@*android:color/Teal_700</color>
+    <color name="datepicker_default_header_dayofweek_background_color_holo_dark">@*android:color/Teal_700</color>
+    <color name="datepicker_default_normal_text_color_holo_light">@android:color/holo_blue_bright</color>
+    <color name="datepicker_default_disabled_text_color_holo_light">#80ffffff</color>
+    <color name="datepicker_default_disabled_text_color_holo_dark">#80ffffff</color>
+    <color name="datepicker_default_selected_text_color_holo_light">@android:color/holo_blue_bright</color>
+    <color name="datepicker_default_selected_text_color_holo_dark">@android:color/holo_blue_bright</color>
+    <color name="datepicker_default_pressed_text_color_holo_light">#ffdddddd</color>
+    <color name="datepicker_default_pressed_text_color_holo_dark">#ffdddddd</color>
+    <color name="timepicker_default_background_material">@android:color/background_dark</color>
+    <color name="timepicker_default_text_color_material">@android:color/holo_blue_bright</color>
+    <color name="timepicker_default_ampm_selected_background_color_material">#ff404040</color>
+    <color name="timepicker_default_selector_color_material">#ff707070</color>
+    <color name="datepicker_default_header_selector_background_material_light">#ff121516</color>
+    <color name="datepicker_default_header_selector_background_material_dark">#ff121516</color>
+    <color name="datepicker_default_disabled_text_color_material_light">#80ffffff</color>
+    <color name="datepicker_default_disabled_text_color_material_dark">#80ffffff</color>
+    <color name="datepicker_default_selected_text_color_material_light">#ffbbbbbb</color>
+    <color name="datepicker_default_selected_text_color_material_dark">#ffbbbbbb</color>
+    <color name="datepicker_default_pressed_text_color_material_light">#ffaaaaaa</color>
+    <color name="datepicker_default_pressed_text_color_material_dark">#ffaaaaaa</color>
+    <color name="datepicker_default_circle_background_color_material_light">@android:color/holo_blue_bright</color>
+    <color name="datepicker_default_circle_background_color_material_dark">@android:color/holo_blue_bright</color>
+    <color name="datepicker_default_view_animator_color_material_light">@android:color/background_dark</color>
+    <color name="datepicker_default_view_animator_color_material_dark">@android:color/background_dark</color>
+
+    <color name="resolver_list_bg">@android:color/background_dark</color>
+    <color name="chooser_grid_bg">@android:color/background_dark</color>
+
+    <color name="white">#ffffffff</color>
+
+    <color name="material_grey_900">#ff101010</color>
+    <!-- background color behind cards in settings -->
+    <color name="material_grey_850">@android:color/background_dark</color>
+
+    <color name="material_grey_800">@android:color/background_dark</color>
+
+    <color name="micro_text_light">#ffcccccc</color>
+
+    <color name="notification_template_material_big_picture_background_color">#ff121516</color>
+    <color name="notification_mtrl_action_textcolor">#ffffffff</color>
+    <!-- Background of Share/Delete a Screenshot Notification -->
+    <color name="notification_mtrl_big_picture_bg">@*android:color/Indigo_700</color>
+    <color name="notification_mtrl_action_text_light">#ffffffff</color>
+
+    <color name="background_leanback_light">#fffafafa</color>
+
+    <!-- Text color in copy/paste popup -->
+    <color name="foreground_material_dark">#ffffffff</color>
+    <color name="foreground_material_light">#ffffffff</color>
+
+    
+    
+    
+</resources>
+
+

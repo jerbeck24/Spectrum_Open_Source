@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportHeight="96"
+    android:viewportWidth="96">
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M 18 79 L 79 79 Q 81 79 81 81 L 81 84 Q 81 86 79 86 L 18 86 Q 16 86 16 84 L 16 81 Q 16 79 18 79 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M 25 63 L 72 63 Q 74 63 74 65 L 74 68 Q 74 70 72 70 L 25 70 Q 23 70 23 68 L 23 65 Q 23 63 25 63 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M 33 49 L 66 49 Q 68 49 68 51 L 68 54 Q 68 56 66 56 L 33 56 Q 31 56 31 54 L 31 51 Q 31 49 33 49 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M 40 33 L 59 33 Q 61 33 61 35 L 61 38 Q 61 40 59 40 L 40 40 Q 38 40 38 38 L 38 35 Q 38 33 40 33 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M45.000,28.000 L51.000,28.000 C51.552,28.000 52.000,28.448 52.000,29.000 C52.000,29.552 51.552,30.000 51.000,30.000 L45.000,30.000 C44.448,30.000 44.000,29.552 44.000,29.000 C44.000,28.448 44.448,28.000 45.000,28.000 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M45.000,43.000 L51.000,43.000 C51.552,43.000 52.000,43.448 52.000,44.000 C52.000,44.552 51.552,45.000 51.000,45.000 L45.000,45.000 C44.448,45.000 44.000,44.552 44.000,44.000 C44.000,43.448 44.448,43.000 45.000,43.000 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M45.000,58.000 L51.000,58.000 C51.552,58.000 52.000,58.448 52.000,59.000 C52.000,59.552 51.552,60.000 51.000,60.000 L45.000,60.000 C44.448,60.000 44.000,59.552 44.000,59.000 C44.000,58.448 44.448,58.000 45.000,58.000 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M45.000,73.000 L51.000,73.000 C51.552,73.000 52.000,73.448 52.000,74.000 C52.000,74.552 51.552,75.000 51.000,75.000 L45.000,75.000 C44.448,75.000 44.000,74.552 44.000,74.000 C44.000,73.448 44.448,73.000 45.000,73.000 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M45.000,89.000 L51.000,89.000 C51.552,89.000 52.000,89.448 52.000,90.000 C52.000,90.552 51.552,91.000 51.000,91.000 L45.000,91.000 C44.448,91.000 44.000,90.552 44.000,90.000 C44.000,89.448 44.448,89.000 45.000,89.000 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M 48 2 C 54.0751322481 2 59 6.92486775186 59 13 C 59 19.0751322481 54.0751322481 24 48 24 C 41.9248677519 24 37 19.0751322481 37 13 C 37 6.92486775186 41.9248677519 2 48 2 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M72.000,35.000 L77.000,63.000 L63.000,31.000 L79.000,27.000 L66.000,3.000 L76.000,3.000 L86.000,32.000 L72.000,35.000 ZM20.000,48.000 L26.000,27.000 L10.000,19.000 L15.000,3.000 L27.000,3.000 L19.000,17.000 L33.000,25.000 L20.000,48.000 Z" />
+</vector>

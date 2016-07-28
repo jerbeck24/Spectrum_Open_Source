@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jerbeck24.Spectrum"
+    android:versionCode="45"
+    android:versionName="7.2">
+
+    <application android:label="@string/ThemeName"
+        android:icon="@drawable/icon">
+
+        <meta-data android:name="Substratum_Theme" android:value="@string/ThemeName"/>
+        <meta-data android:name="Substratum_Author" android:value="@string/ThemeAuthor"/>
+        <meta-data android:name="Substratum_Legacy" android:value="true"/>
+
+    </application>
+
+
+</manifest>

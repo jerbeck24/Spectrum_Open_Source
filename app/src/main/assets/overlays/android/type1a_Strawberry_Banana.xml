@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="holo_blue_light">@android:color/background_dark</color>
+    <color name="holo_blue_dark">@android:color/background_dark</color>
+    <color name="holo_blue_bright">#fffff35d</color>
+    <color name="Teal_700">#ffc04446</color>
+    <!-- Secondary Color on N -->
+    <color name="Blue_700">#ffc04446</color>
+
+
+
+
+
+
+    <!--
+    <color name="holo_blue_light">#ff2db82d</color>
+    <color name="holo_blue_dark">#ff28a428</color>
+    <color name="holo_purple">#ff000000</color>
+    -->
+
+</resources>

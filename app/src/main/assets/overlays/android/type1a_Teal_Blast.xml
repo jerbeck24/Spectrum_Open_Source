@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="holo_blue_light">#ff009688</color> <!-- Actionbar Color -->
+    <color name="holo_blue_dark">#ff00877a</color> <!-- Status Bar Color -->
+    <color name="holo_blue_bright">#ff99d5cf</color> <!-- Main Accent Color in App -->
+    <color name="Teal_700">#ff66c0b7</color> <!-- Colors Category Titles in Settings amongst other things -->
+    <!-- Secondary Color on N -->
+    <color name="Blue_700">#ff66c0b7</color>
+
+
+
+
+
+
+    <!--
+    <color name="holo_purple">#ff000000</color>
+    -->
+
+</resources>

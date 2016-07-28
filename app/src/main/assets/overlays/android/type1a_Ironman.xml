@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="holo_blue_light">#ff771414</color>
+    <color name="holo_blue_dark">#ff6b1212</color>
+    <color name="holo_blue_bright">#ffbeba46</color>
+    <color name="Teal_700">#ff8bd3fb</color>
+    <!-- Secondary Color on N -->
+    <color name="Blue_700">#ff8bd3fb</color>
+
+
+
+
+
+
+    <!--
+    <color name="holo_purple">#ff000000</color>
+    -->
+
+</resources>
