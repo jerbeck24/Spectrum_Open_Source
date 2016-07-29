@@ -1,0 +1,31 @@
+﻿<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportHeight="48"
+    android:viewportWidth="48">
+
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M 12 3.5 C 17.2467051234 3.5 21.5 7.75329487661 21.5 13 C 21.5 18.2467051234 17.2467051234 22.5 12 22.5 C 6.75329487661 22.5 2.5 18.2467051234 2.5 13 C 2.5 7.75329487661 6.75329487661 3.5 12 3.5 Z" />
+    <path
+        android:fillColor="@android:color/background_dark"
+        android:pathData="M7.999,15.189 L13.244,15.189 L13.244,17.000 L18.001,13.500 L13.244,10.000 L13.244,11.811 L7.999,11.811 L7.999,15.189 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M 11.25 25.75 C 16.4967051234 25.75 20.75 30.0032948766 20.75 35.25 C 20.75 40.4967051234 16.4967051234 44.75 11.25 44.75 C 6.00329487661 44.75 1.75 40.4967051234 1.75 35.25 C 1.75 30.0032948766 6.00329487661 25.75 11.25 25.75 Z" />
+    <path
+        android:fillColor="@android:color/background_dark"
+        android:pathData="M14.439,40.251 L14.439,35.006 L16.250,35.006 L12.750,30.249 L9.250,35.006 L11.061,35.006 L11.061,40.251 L14.439,40.251 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M 35.25 25.75 C 40.4967051234 25.75 44.75 30.0032948766 44.75 35.25 C 44.75 40.4967051234 40.4967051234 44.75 35.25 44.75 C 30.0032948766 44.75 25.75 40.4967051234 25.75 35.25 C 25.75 30.0032948766 30.0032948766 25.75 35.25 25.75 Z" />
+    <path
+        android:fillColor="@android:color/background_dark"
+        android:pathData="M40.751,34.061 L35.506,34.061 L35.506,32.250 L30.749,35.750 L35.506,39.250 L35.506,37.439 L40.751,37.439 L40.751,34.061 Z" />
+    <path
+        android:fillColor="@android:color/holo_blue_bright"
+        android:pathData="M 35.75 2.75 C 40.9967051234 2.75 45.25 7.00329487661 45.25 12.25 C 45.25 17.4967051234 40.9967051234 21.75 35.75 21.75 C 30.5032948766 21.75 26.25 17.4967051234 26.25 12.25 C 26.25 7.00329487661 30.5032948766 2.75 35.75 2.75 Z" />
+    <path
+        android:fillColor="@android:color/background_dark"
+        android:pathData="M35.061,8.749 L35.061,13.994 L33.250,13.994 L36.750,18.751 L40.250,13.994 L38.439,13.994 L38.439,8.749 L35.061,8.749 Z" />
+</vector>
