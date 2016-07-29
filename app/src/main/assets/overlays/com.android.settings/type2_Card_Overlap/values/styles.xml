@@ -15,4 +15,7 @@
     <style name="Theme.SubSettings" parent="@style/Theme.SettingsBase">
         <item name="android:windowBackground">@*android:color/background_dark</item>
     </style>
+
+
+
 </resources>
