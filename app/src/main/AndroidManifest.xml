@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.jerbeck24.Spectrum"
+        android:sharedUserId="projekt.substratum">
+
+        <application
+            android:allowBackup="true"
+            android:icon="@drawable/icon"
+            android:label="@string/ThemeName"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+
+            <activity android:name=".LauncherActivity">
+                <intent-filter>
+                    <action android:name="android.intent.action.MAIN"/>
+                    <category android:name="android.intent.category.LAUNCHER"/>
+                </intent-filter>
+            </activity>
+            <activity android:name=".SubstratumLauncher">
+                <intent-filter>
+                    <action android:name="android.intent.action.MAIN"/>
+                </intent-filter>
+            </activity>
+
+            <meta-data
+                android:name="Substratum_Legacy"
+                android:value="true"/>
+            <meta-data
+                android:name="Substratum_Theme"
+                android:value="@string/ThemeName"/>
+            <meta-data
+                android:name="Substratum_Author"
+                android:value="@string/ThemeAuthor"/>
+
+            <!-- SUBSTRATUM INTERNAL USE: DO NOT TOUCH -->
+            <meta-data
+                android:name="Substratum_Plugin"
+                android:value="2.0.0"/>
+
+        </application>
+
+
+</manifest>
