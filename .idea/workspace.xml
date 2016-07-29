@@ -1,7 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f317b3fd-b1f8-4dca-ba91-cfe703b5adc8" name="Default" comment="" />
+    <list default="true" id="f317b3fd-b1f8-4dca-ba91-cfe703b5adc8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/android/type2_Keep_Divider_Lines/drawable/list_divider_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/android/type2_Remove_Divider_Lines/drawable/list_divider_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/color/audio_icon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_bitsyko_layers.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_broken_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_bt_headphones_a2dp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_bt_headset_hfp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_buttons_tile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_daynight.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_google_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_about.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_accessibility.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_accounts.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_applications.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_backup.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_battery.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_bluetooth.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_cellular.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_chroma.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_data_usage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_date_time.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_development.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_display.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_gestures.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_home.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_illusion.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_language.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_location.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_memory.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_more.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_multiuser.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_nfc_payment.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_notifications.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_performance.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_print.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_purenexus.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_security.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_storage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_substratum.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_supersu.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_supersu_alpha.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_tavern.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_twisted.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_uber.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_universe.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_settings_wireless.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_teslacoil.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_xd_eq.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-anydpi-v21/ic_xd_kernel.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v14/dashboard_background_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/cataclysm_logo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/dashboard_background_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/dashboard_tile_background.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/expanded_close_bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/fab_blue.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_action_permission.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_action_set.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_adaway_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_appcirclebar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_audio_ring_24dp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bitsyko_layers2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bitsyko_layers_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_blacklist_calls_icon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_blacklist_messages_icon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bliss_equalizer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bliss_navigation.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_broken_settings_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_cellphone.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_config_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_headphones_a2dp2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_headset_hfp2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_imaging.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_keyboard_hid.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_laptop.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_misc_hid.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_network_pan.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_bt_pointing_hid.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_buttons.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_dt_omniswitch.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_ed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_grabber.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_io_performance.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_io_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_item_delete.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_layers2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_equalizer_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_interface_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_lockscreen_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_misc_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_navigation_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_notifications_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_performance_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_statusbar_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_theme_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_liquid_theme_settings_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_lockscreen_ime.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_menu_add_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_menu_add_dark_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_menu_add_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_menu_delete.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_menu_save.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_navbar_edit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_navbar_restore.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_navbar_save.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_network_signal_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_power_system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_privacy_guard_off.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_qs_quiet_hours_off.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_qs_quiet_hours_on.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_quiethours.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_remix_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_rrmagic.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_32dp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_about2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_about_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_accessibility2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_accessibility_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_accounts2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_accounts_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_actived.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_advanced.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_aicp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_applications2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_applications_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_backup2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_backup_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_backup_restore.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_battery2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_battery_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_bluetooth2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_bluetooth_exposed2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_boost.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_brokencenter2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_button.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_buttons.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_camera.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_cataclysm.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_cell_standby.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_cellular2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_chroma2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_custom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_custom_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_data_usage2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_data_usage_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_date_time2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_date_time_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_development2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_development_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_display2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_display_am.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_display_animations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_display_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_dock.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_extdesk_hideboth.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_extdesk_hidenavbar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_extdesk_hidenone.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_extdesk_hidestatusbar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_gestures2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_home2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_home_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_ib.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_illusion.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_interface.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_kernel.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_language2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_language_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_location2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_location_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_lockscreen.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_memory2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_minimal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_more2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_more_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_multiuser2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_multiuser_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_navigation.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_nfc_payment2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_nfc_payment_am2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_nfc_payment_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_notification_drawer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_notification_drawer_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_notifications2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_notifications_exposed2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_oclick.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_optipop.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_performance2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_performance_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_phone_idle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_pie.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_print2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_print_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_privacy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_privacy_guard.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_profiles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_purenexus2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_rastapop.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_recents.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_security2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_security_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_sim.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_slimcenter.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_sound.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_statusbar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_storage2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_storage_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_supersu2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_supersu_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_supersu_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_sync.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_system.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_terminus.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_tweaks.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_universe.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_viper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_voice_calls.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_voice_wakeup.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_weather.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_wireless2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_settings_wireless_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sim_sd.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sim_sd_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sim_sd_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sync_anim_holo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sync_error_holo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sync_green_holo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sync_grey_holo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sync_red_holo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sysbar_quicksettings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_sysbar_quicksettings_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_tab_selected_download.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_tab_selected_running.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_tab_unselected_download.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_terminus_logo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_tesla_performance.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_tesla_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_twisted2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_twisted_apps_interface_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_twisted_settings_interface_exposed2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_emptystate.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_0_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_0_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_0_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_0_teal_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_1_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_1_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_1_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_1_teal_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_2_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_2_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_2_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_2_teal_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_3_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_3_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_3_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_3_teal_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_4_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_4_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_4_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_lock_signal_4_teal_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_0_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_0_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_0_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_1_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_1_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_1_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_2_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_2_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_2_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_3_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_3_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_3_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_4_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_4_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wifi_signal_4_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wps_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wps_dark_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_wps_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_zen_important.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/ic_zen_none.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/illusion.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/io_banner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/nfc_payment_empty_state.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/nfc_payment_empty_state_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/popup_background_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/preference_highlight.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-v21/seekbar_track_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable-xxxhdpi/ic_settings_bluetooth.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/cataclysm_logo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/dashboard_background_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/dashboard_tile_background.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/expanded_close_bg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_adaway_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_bitsyko_layers2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_bitsyko_layers_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_broken_settings_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_google_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_layers2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_equalizer_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_interface_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_lockscreen_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_misc_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_navigation_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_notifications_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_performance_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_statusbar_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_theme_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_liquid_theme_settings_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_settings_32dp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_sim_sd_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_sim_sd_teal.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_terminus_logo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_twisted_apps_interface_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_twisted_settings_interface_exposed2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_wps_dark_exposed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_zen_important.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/ic_zen_none.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/illusion.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/io_banner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/list_divider_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/preference_highlight.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable/seekbar_track_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values-v21/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/bools.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/drawables.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/ids.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/type1a.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/type1b.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/type1c.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Black_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Blue_Grey_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Burnt_Orange_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Carolina_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Dark_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Darq_Turq_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Deep_Purple_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Gray_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Green_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Honolulu_Blue_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Light_Gray_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Maroon_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Navy_Blue_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_No_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Red_Red_Wine_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Shale_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1a_Very_Dark_Cards.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1b_One_Column.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1b_Two_Columns.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1c_Keep_Divider_Lines.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type1c_Remove_Divider_Lines.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type2_Card_Overlap/values-night-v8/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type2_Card_Overlap/values-night-v8/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type2_Card_Overlap/values-night-v8/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type2_Card_Overlap/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type2_Card_Overlap/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type2_Card_Overlap/values/styles.xml" afterPath="" />
+    </list>
     <ignored path="Spectrum_Substratum.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +408,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubstratumLauncher.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SubstratumLauncher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jerbeck24/Spectrum/SubstratumLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5226481">
+            <state vertical-scroll-proportion="0.0">
               <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="audio_icon.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/color/audio_icon.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1973,6 +2348,40 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="overlays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.android.settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spectrum_Substratum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spectrum_Substratum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -1995,8 +2404,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/java/com/jerbeck24/Spectrum" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/overlays" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/jerbeck24/Spectrum" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/bootanimation" />
       <recent name="$PROJECT_DIR$/app/src/main" />
       <recent name="$PROJECT_DIR$/app/src/main/res/values" />
@@ -2293,7 +2702,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="23" width="1161" height="720" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2309,7 +2718,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2546917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2546917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2344,14 +2753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/color/audio_icon.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2404,14 +2805,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/color/audio_icon.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31548756">
@@ -2438,8 +2831,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jerbeck24/Spectrum/SubstratumLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5226481">
+        <state vertical-scroll-proportion="0.0">
           <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/color/audio_icon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

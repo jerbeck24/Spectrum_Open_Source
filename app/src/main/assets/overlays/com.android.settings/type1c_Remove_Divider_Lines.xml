@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material">
-        <item name="android:listDivider">@null</item>
-    </style>
-
-</resources>
