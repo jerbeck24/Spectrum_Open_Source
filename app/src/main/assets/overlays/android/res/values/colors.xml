@@ -231,7 +231,7 @@
 
     <!-- Text color in copy/paste popup -->
     <color name="foreground_material_dark">#ffffffff</color>
-    <color name="foreground_material_light">#ffffffff</color>
+    <color name="foreground_material_light">#ff000000</color>
 
     
     

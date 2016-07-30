@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Make width of qs full -->
+    <dimen name="notification_padding">0.0dip</dimen>
+    <dimen name="notifications_top_padding">0.0dip</dimen>
+
+</resources>

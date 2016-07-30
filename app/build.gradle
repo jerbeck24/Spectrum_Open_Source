@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.jerbeck24.Spectrum"
-        minSdkVersion 23
-        targetSdkVersion 24
+        minSdkVersion 22
+        targetSdkVersion 23
         versionCode 45
         versionName "7.2"
     }
