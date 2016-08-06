@@ -7,7 +7,7 @@
 
     <style name="systemui_theme" parent="@*android:style/Theme.Material">
         <!-- Switch color in QS -->
-        <item name="android:colorControlActivated">@*android:color/Teal_700</item>
+        <item name="android:colorControlActivated">@android:color/holo_blue_light</item>
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
     </style>
     <style name="Theme.SystemUI.Dialog" parent="@*android:style/Theme.Material.Dialog">

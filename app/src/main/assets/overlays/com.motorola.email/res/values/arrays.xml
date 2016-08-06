@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="letter_tile_colors">
+        <item>@*android:color/Teal_700</item>
+        <item>@*android:color/Teal_700</item>
+        <item>@*android:color/Teal_700</item>
+        <item>@*android:color/Teal_700</item>
+        <item>@*android:color/Teal_700</item>
+        <item>@*android:color/Teal_700</item>
+        <item>@*android:color/Teal_700</item>
+        <item>@*android:color/Teal_700</item>
+        <item>@*android:color/Teal_700</item>
+        <item>@*android:color/Teal_700</item>
+    </array>
+
+</resources>
