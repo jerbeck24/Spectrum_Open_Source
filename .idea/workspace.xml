@@ -6,50 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f317b3fd-b1f8-4dca-ba91-cfe703b5adc8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.motorola.email/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.motorola.email/res/values/arrays.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.motorola.email/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.motorola.email/res/values/drawables.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/android/type1b_Blue_Grey.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/android/type1b_Blue_Grey.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/ic_qs_signal_full_4.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/ic_qs_signal_full_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_1x.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_1x.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_3g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_3g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_4g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_4g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_e.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_e.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_h.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_h.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_hp.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_hp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_lte.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_lte.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_roam.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_roam.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_0_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_0_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_1_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_1_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_2_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_2_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_3_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_3_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_4.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_4_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_4_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_null.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_null.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_0_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_0_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_1_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_1_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_2_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_2_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_3_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_3_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_4.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_4_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_4_fully.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_null.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_wifi_signal_null.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/substratum/theme/template/SubstratumLauncher.java" afterPath="$PROJECT_DIR$/app/src/main/java/substratum/theme/template/SubstratumLauncher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/substratum_strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/substratum_strings.xml" />
-    </list>
+    <list default="true" id="f317b3fd-b1f8-4dca-ba91-cfe703b5adc8" name="Default" comment="" />
     <ignored path="Spectrum_Substratum.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,11 +38,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SubstratumLauncher.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SubstratumLauncher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/substratum/theme/template/SubstratumLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="type1a_Cyanide_Purple.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/android/type1a_Cyanide_Purple.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2020,11 +1987,11 @@
       <recent name="com.jerbeck24.Spectrum" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/assets/overlays/android" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/overlays" />
       <recent name="$PROJECT_DIR$/app/src/main/res" />
       <recent name="$PROJECT_DIR$/app/src/main/res/values" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable" />
-      <recent name="$PROJECT_DIR$/app/src/main" />
     </key>
   </component>
   <component name="RunManager">
@@ -2524,8 +2491,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/substratum/theme/template/SubstratumLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/android/type1a_Cyanide_Purple.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
