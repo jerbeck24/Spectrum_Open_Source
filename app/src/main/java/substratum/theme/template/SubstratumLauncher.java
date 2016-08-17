@@ -1,20 +1,23 @@
-package com.jerbeck24.Spectrum;
+package substratum.theme.template;
 
 import android.app.Activity;
 import android.content.ComponentName;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
+import android.support.v7.app.AlertDialog;
 import android.widget.Toast;
 
 import com.github.javiersantos.piracychecker.PiracyChecker;
-import com.github.javiersantos.piracychecker.PiracyCheckerUtils;
 import com.github.javiersantos.piracychecker.enums.InstallerID;
 import com.github.javiersantos.piracychecker.enums.PiracyCheckerCallback;
 import com.github.javiersantos.piracychecker.enums.PiracyCheckerError;
+
+import java.io.File;
+import java.util.ArrayList;
 
 /**
  * @author Nicholas Chum (nicholaschum)
@@ -28,7 +31,9 @@ public class SubstratumLauncher extends Activity {
     //
     // TODO: Themers, this is your FIRST step
     // UNIVERSAL SWITCH: Control whether Anti-Piracy should be activated while testing
-    private static final boolean ENABLE_ANTI_PIRACY = false;
+
+    private static final boolean ENABLE_ANTI_PIRACY = true; // TRUE for release, FALSE for testing!!!
+
     // In order to retrieve your BASE64 license key your app must be uploaded to
     // Play Developer Console. Then access to your app -> Services and APIs.
     // You will need to replace "" with the code you obtained from the Play Developer Console.
@@ -168,10 +173,112 @@ public class SubstratumLauncher extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        detectThemeReady();
+        //launch();
+                }
+
+    private void launch() {
         if (ENABLE_ANTI_PIRACY && !BuildConfig.DEBUG) {
             startAntiPiracyCheck();
         } else {
             beginSubstratumLaunch();
         }
     }
+    private void detectThemeReady() {
+        File addon = new File("/system/addon.d/80-ThemeReady.sh");
+        ArrayList<String> appname_arr = new ArrayList<>();
+        boolean updated = false;
+        String data_path = "/data/app/";
+        String[] app_folder = {"com.google.android.gm",
+                "com.google.android.googlequicksearchbox",
+                "com.android.vending",
+                "com.google.android.apps.plus",
+                "com.google.android.talk",
+                "com.google.android.youtube",
+                "com.google.android.apps.photos",
+                "com.google.android.contacts",
+                "com.google.android.dialer"};
+        String folder1 = "-1";
+        String folder2 = "-2";
+        String apk_path = "/base.apk";
+        StringBuilder app_name = new StringBuilder();
+
+                if (addon.exists()) {
+            for (int i = 0; i < app_folder.length; i++) {
+                File app1 = new File(data_path + app_folder[i] + folder1 + apk_path);
+                File app2 = new File(data_path + app_folder[i] + folder2 + apk_path);
+
+                if (app1.exists() || app2.exists()) {
+                    try {
+                        updated = true;
+                        ApplicationInfo app = this.getPackageManager().getApplicationInfo(app_folder[i], 0);
+                        String label = getPackageManager().getApplicationLabel(app).toString();
+                        appname_arr.add(label);
+
+                        } catch (PackageManager.NameNotFoundException e) {
+                        //gotta catch them all
+                                }
+                    }
+                }
+
+                            for (int i = 0; i < appname_arr.size(); i++) {
+                        app_name.append(appname_arr.get(i));
+                        if(i <= appname_arr.size() - 3) {
+                            app_name.append(", ");
+                            } else if (i == appname_arr.size() - 2) {
+                            app_name.append(" and ");
+                    }
+                }
+            if (!updated) {
+                launch();
+            } else {
+                String parse = String.format(getString(R.string.theme_ready_updated),
+                        app_name);
+
+                        new AlertDialog.Builder(SubstratumLauncher.this)
+                                .setIcon(R.drawable.icon)
+                                .setTitle(getString(R.string.ThemeName))
+                        .setMessage(parse)
+                        .setPositiveButton(R.string.yes, new DialogInterface.OnClickListener() {
+                                                public void onClick(DialogInterface dialog, int which) {
+                        launch();
+                                                    }
+                    })
+                        .setNegativeButton(R.string.no, new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+                        finish();
+                        }
+                    })
+                                .setOnCancelListener(new DialogInterface.OnCancelListener() {
+                                    @Override
+                                    public void onCancel(DialogInterface dialogInterface) {
+                                        finish();
+                                        }
+                                    })
+                        .show();
+                }
+            } else {
+            new AlertDialog.Builder(SubstratumLauncher.this)
+                    .setIcon(R.drawable.icon)
+                    .setTitle(getString(R.string.ThemeName))
+                    .setMessage(getString(R.string.theme_ready_not_detected))
+                    .setPositiveButton(R.string.yes, new DialogInterface.OnClickListener() {
+                public void onClick(DialogInterface dialog, int which) {
+                    launch();
+                    }
+                })
+                    .setNegativeButton(R.string.no, new DialogInterface.OnClickListener() {
+                public void onClick(DialogInterface dialog, int which) {
+                    finish();
+                    }
+                })
+                    .setOnCancelListener(new DialogInterface.OnCancelListener() {
+                        @Override
+                        public void onCancel(DialogInterface dialogInterface) {
+                            finish();
+                            }
+                        })
+                    .show();
+            }
+        }
 }

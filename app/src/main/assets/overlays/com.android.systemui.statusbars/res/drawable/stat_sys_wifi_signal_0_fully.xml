@@ -6,7 +6,7 @@
     android:viewportHeight="16">
 
     <path
-        android:fillColor="#ffffffff"
+        android:fillColor="?android:fillColor"
         android:fillAlpha="0.2"
         android:pathData="M16.851,16 L15.702,16 L15.7359,15.7347
 C15.8708,14.6785,16.6749,13.8848,17.7659,13.731 L18,13.698 L18,14.849 L18,16
