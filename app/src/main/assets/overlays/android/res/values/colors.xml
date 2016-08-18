@@ -93,8 +93,7 @@
     <!-- Text on Buttons in AudioManager -->
     <color name="primary_text_holo_dark">@*android:color/Teal_700</color>
     <color name="exposed_primary_text_dark">#ffffffff</color>
-    <!-- Main text in Settings, "Settings' on Actionbar and Search icon, Text color in MANY, MANY, MANY places -->
-    <color name="primary_text_material_dark">#ffffffff</color>
+
     <color name="secondary_text_nodisable_holo_dark">#ffcccccc</color>
     <color name="secondary_text_nodisable_holo_light">#ffcccccc</color>
     <color name="secondary_text_holo_dark">#ffcccccc</color>
