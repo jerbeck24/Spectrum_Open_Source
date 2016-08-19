@@ -1,2 +1,12 @@
 
 app/src/main/java/com/jerbeck24/Spectrum/SubstratumLauncher.java
+
+*.iml
+
+build/generated/mockable-android-24.jar
+
+gen/com/jerbeck24/Spectrum/BuildConfig.java
+
+gen/com/jerbeck24/Spectrum/Manifest.java
+
+gen/com/jerbeck24/Spectrum/R.java
