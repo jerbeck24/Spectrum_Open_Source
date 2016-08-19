@@ -7,42 +7,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f317b3fd-b1f8-4dca-ba91-cfe703b5adc8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/android/type1a_Silver_Charcoal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/android/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/android/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_1x.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_1x.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_3g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_3g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_4g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_4g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_e.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_e.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_h.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_h.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_hp.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_hp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_roam.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_data_fully_connected_roam.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_1x.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_1x.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_3g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_3g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_4g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_4g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_e.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_e.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_h.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_h.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_hp.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_hp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_lte.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_lte.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_roam.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_roam.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_1x.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_1x.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_3g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_3g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_4g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_4g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_e.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_e.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_g.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_g.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_h.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_h.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_hp.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_hp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_lte.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_lte.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_roam.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_data_fully_connected_roam.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type2" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/type2" />
     </list>
     <ignored path="Spectrum_Substratum.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,10 +61,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SubstratumLauncher.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SubstratumLauncher.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/substratum/theme/template/SubstratumLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.026041666">
+            <state vertical-scroll-proportion="0.0">
               <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding>
                 <element signature="e#9915#10169#0" expanded="true" />
@@ -98,8 +84,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="type1a_Cyanide_Purple.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/android/type1a_Cyanide_Purple.xml">
+      <file leaf-file-name="audio_icon.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/color/audio_icon.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1996,40 +1982,6 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="overlays" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spectrum_Substratum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spectrum_Substratum" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -2057,8 +2009,8 @@
       <recent name="com.jerbeck24.Spectrum" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/assets/overlays/android" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/overlays" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets/overlays/android" />
       <recent name="$PROJECT_DIR$/app/src/main/res" />
       <recent name="$PROJECT_DIR$/app/src/main/res/values" />
       <recent name="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/drawable" />
@@ -2342,7 +2294,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="110" y="24" width="1161" height="720" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2351,7 +2303,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2408,14 +2360,6 @@
             <element signature="e#11622#11870#0" expanded="true" />
             <element signature="e#11869#11870#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/android/type1a_Cyanide_Purple.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2572,13 +2516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/android/res/layout/text_edit_paste_window.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/substratum_strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2173913">
@@ -2587,17 +2524,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/android/type1a_Cyanide_Purple.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/substratum/theme/template/SubstratumLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.026041666">
+        <state vertical-scroll-proportion="0.0">
           <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding>
             <element signature="e#9915#10169#0" expanded="true" />
@@ -2613,6 +2542,14 @@
             <element signature="e#11622#11870#0" expanded="true" />
             <element signature="e#11869#11870#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/color/audio_icon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
