@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="holo_blue_light">#ff32b7ba</color>
-    <color name="holo_blue_dark">#ff2da4a7</color>
+    <color name="holo_blue_light">#ff5ca884</color>
+    <color name="holo_blue_dark">#ff498669</color>
     <color name="holo_blue_bright">#ffdddddd</color>
     <color name="Teal_700">#ffdddddd</color>
     <!-- Secondary Color on N -->

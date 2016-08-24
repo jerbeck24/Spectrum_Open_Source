@@ -3,7 +3,7 @@
 
     <color name="holo_blue_light">#ff7498be</color>
     <color name="holo_blue_dark">#ff6787a9</color>
-    <color name="holo_blue_bright">#ffbbbbbb</color>
+    <color name="holo_blue_bright">#ffdddddd</color>
     <color name="Teal_700">#ffdddddd</color>
     <!-- Secondary Color on N -->
     <color name="Blue_700">#ffdddddd</color>

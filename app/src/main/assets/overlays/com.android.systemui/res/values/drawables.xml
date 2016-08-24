@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="notification_template_icon_bg">@android:color/holo_blue_bright</item>
+    <item type="drawable" name="notification_number_text_color">#ffffffff</item>
+    <item type="drawable" name="ticker_background_color">@android:color/background_dark</item>
+    <item type="drawable" name="system_bar_background">@android:color/background_dark</item>
+    <item type="drawable" name="status_bar_notification_row_background_color">@android:color/holo_blue_dark</item>
+    <item type="drawable" name="heads_up_notification_bg_pressed">@android:color/holo_purple</item>
+    <item type="drawable" name="forced_resizable_background">#59000000</item>
+</resources>

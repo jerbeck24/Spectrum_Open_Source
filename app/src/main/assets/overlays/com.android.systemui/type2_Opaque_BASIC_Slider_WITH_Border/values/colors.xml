@@ -123,4 +123,17 @@
     <color name="resolver_list_bg">@android:color/background_dark</color>
     <!-- Chooser grid background -->
     <color name="chooser_grid_bg">@android:color/background_dark</color>
+
+
+    <!-- FOR N -->
+
+    <!--Background behind notifications -->
+    <color name="notification_shade_background_color">#00000000</color>
+    <!-- ??? -->
+    <color name="material_deep_teal_200">#ffffff00</color>
+
+
+
+
+
 </resources>

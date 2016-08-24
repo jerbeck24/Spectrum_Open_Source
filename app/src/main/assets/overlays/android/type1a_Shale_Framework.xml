@@ -4,9 +4,9 @@
     <color name="holo_blue_light">#ff3c3f48</color>
     <color name="holo_blue_dark">#ff303239</color>
     <color name="holo_blue_bright">#ffbbbbbb</color>
-    <color name="Teal_700">#ffdddddd</color>
+    <color name="Teal_700">#ffcccccc</color>
     <!-- Secondary Color on N -->
-    <color name="Blue_700">#ffdddddd</color>
+    <color name="Blue_700">#ffcccccc</color>
 
 
 

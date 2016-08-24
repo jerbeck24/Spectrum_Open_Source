@@ -8,6 +8,7 @@
     <color name="material_blue_grey_800">@android:color/holo_blue_light</color>
     <color name="material_blue_grey_900">@android:color/holo_blue_light</color>
     <color name="material_blue_grey_950">@android:color/holo_blue_dark</color>
+    <!-- Android System Notification Title Text Color -->
     <color name="system_notification_accent_color">@android:color/holo_blue_bright</color>
     <color name="secondary_text_default_material_light">#ffcccccc</color>
     <color name="background_floating_material_dark">@android:color/holo_purple</color>
@@ -31,11 +32,7 @@
     <color name="exposed_TextAppearance.StatusBar.EventContent.Emphasis">#fffafafa</color>
     <color name="exposed_TextAppearance.EasyCorrectSuggestion">#fffafafa</color>
     <color name="exposed_Widget.Material.Light.Button_TS">#ffffffff</color>
-    <color name="holo_green_light">#ff4caf50</color>
-    <color name="holo_red_light">#fff44336</color>
-    <color name="holo_red_dark">#ffd32f2f</color>
-    <color name="holo_orange_light">#ffff9800</color>
-    <color name="holo_orange_dark">#fff57c00</color>
+
     <color name="transparent">#00000000</color>
     <color name="lock_pattern_view_regular_color">@android:color/holo_blue_bright</color>
     <color name="global_menu_icon">@android:color/holo_blue_bright</color>
@@ -232,7 +229,20 @@
     <color name="foreground_material_dark">#ffffffff</color>
     <color name="foreground_material_light">#ff000000</color>
 
-    
+
+
+
+
+
+    <!-- For N -->
+
+    <!-- BG for the quick reply option -->
+    <color name="notification_action_list">@android:color/background_dark</color>
+
+
+
+
+
     
     
 </resources>

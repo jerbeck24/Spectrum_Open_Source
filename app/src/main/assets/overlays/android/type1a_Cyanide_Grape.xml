@@ -4,9 +4,9 @@
     <color name="holo_blue_light">@android:color/background_dark</color>
     <color name="holo_blue_dark">@android:color/background_dark</color>
     <color name="holo_blue_bright">#ff9754ff</color>
-    <color name="Teal_700">#ffab76ff</color>
+    <color name="Teal_700">#ff00ffff</color>
     <!-- Secondary Color on N -->
-    <color name="Blue_700">#ffab76ff</color>
+    <color name="Blue_700">#ff00ffff</color>
 
 
 
