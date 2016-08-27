@@ -51,7 +51,7 @@
     <color name="notification_ripple_untinted_color">#28ffffff</color>
     <color name="notification_ripple_color_low_priority">#30ffffff</color>
     <color name="notification_ripple_tinted_color">#30ffffff</color>
-    <color name="current_user_border_color">#ffffff</color>
+    <color name="current_user_border_color">#ffffffff</color>
     <color name="segmented_button_text_inactive">#99ffffff</color>
     <!-- ??? -->
     <color name="notification_guts_bg_color">@android:color/background_dark</color>

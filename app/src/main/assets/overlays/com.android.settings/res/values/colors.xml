@@ -72,8 +72,8 @@
 
 
     <!-- For N -->
-    <color name="accent_material_light">@android:color/holo_blue_bright</color>
-    <color name="accent_material_dark">@android:color/holo_blue_bright</color>
+    <color name="accent_material_light">#ff00ffff</color>
+    <color name="accent_material_dark">#ffbc13fe</color>
     <color name="message_text_incoming">@android:color/holo_blue_bright</color>
     <color name="message_text_outgoing">@*android:color/Teal_700</color>
     <color name="timestamp_text_outgoing">#99ffffff</color>
@@ -86,7 +86,9 @@
     <color name="message_icon_background_outgoing">@android:color/holo_blue_bright</color>
     <color name="message_icon_text_outgoing">#ff000000</color>
     <color name="material_deep_teal_500">@*android:color/Teal_700</color>
-    <color name="preference_fallback_accent_color">@android:color/holo_blue_bright</color>
+    <color name="preference_fallback_accent_color">#ff00ff00</color>
+    <!-- Data color in settings -->
+    <color name="memory_normal">@android:color/holo_blue_bright</color>
 
 
 

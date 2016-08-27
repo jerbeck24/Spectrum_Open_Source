@@ -210,7 +210,7 @@
     <color name="white">#ffffffff</color>
 
     <color name="material_grey_900">#ff101010</color>
-    <!-- background color behind cards in settings -->
+    <!-- background color behind cards in settings - NOT ANYMORE??? -->
     <color name="material_grey_850">@android:color/background_dark</color>
 
     <color name="material_grey_800">@android:color/background_dark</color>
@@ -238,8 +238,167 @@
 
     <!-- BG for the quick reply option -->
     <color name="notification_action_list">@android:color/background_dark</color>
+    <!-- Notirication Text for Screenshots -->
+    <color name="material_deep_teal_100">@android:color/holo_blue_bright</color>
+    <color name="material_deep_teal_300">@android:color/holo_blue_bright</color>
+    <!-- BG of navbar a lot of the time -->
+    <color name="black">#ffff00ff</color> <!-- was #ff000000 -->
 
 
+
+
+
+    <color name="darker_gray">#ffaaaaaa</color>
+
+
+
+
+    <color name="bright_foreground_dark">@android:color/background_light</color>
+
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+
+    <color name="dim_foreground_dark">#ffbebebe</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+
+    <color name="hint_foreground_dark">#ff808080</color>
+
+    <color name="dim_foreground_light_inverse">#ffbebebe</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="hint_foreground_light">#ff808080</color>
+
+    <color name="highlighted_text_light">#9983cc39</color>
+
+    <color name="lighter_gray">#ffdddddd</color>
+    <color name="perms_dangerous_grp_color">#ff33b5e5</color>
+    <color name="perms_dangerous_perm_color">#ff33b5e5</color>
+    <color name="shadow">#cc222222</color>
+    <color name="perms_costs_money">#fff4511e</color>
+    <color name="search_url_text_normal">#ff7fa87f</color>
+    <color name="search_url_text_selected">@android:color/black</color>
+    <color name="search_url_text_pressed">@android:color/black</color>
+    <color name="search_widget_corpus_item_background">@android:color/background_dark</color>
+
+    <!-- ??? -->
+    <color name="sliding_tab_text_color_active">#ff00ffff</color>
+    <color name="sliding_tab_text_color_shadow">#ffff0000</color>
+
+
+    <color name="keyguard_text_color_normal">#ffffffff</color>
+    <color name="keyguard_text_color_unlock">#ffa7d84c</color>
+    <color name="keyguard_text_color_soundoff">#ffffffff</color>
+    <color name="keyguard_text_color_soundon">#ffe69310</color>
+    <color name="keyguard_text_color_decline">#fffe0a5a</color>
+    <color name="lockscreen_clock_background">#ffffffff</color>
+    <color name="lockscreen_clock_foreground">#ffffffff</color>
+    <color name="lockscreen_clock_am_pm">#ffffffff</color>
+    <color name="lockscreen_owner_info">#ff9a9a9a</color>
+    <color name="kg_multi_user_text_active">#ffffffff</color>
+    <color name="kg_multi_user_text_inactive">#ff808080</color>
+    <color name="kg_widget_pager_gradient">#ffffffff</color>
+
+    <color name="facelock_spotlight_mask">#cc000000</color>
+
+    <color name="notification_material_background_color">@android:color/background_dark</color>
+
+    <color name="notification_icon_default_color">@*android:color/Teal_700</color>
+
+
+    <color name="keyguard_avatar_frame_color">#ffffffff</color>
+    <color name="keyguard_avatar_frame_shadow_color">#80000000</color>
+    <color name="keyguard_avatar_nick_color">#ffffffff</color>
+    <color name="keyguard_avatar_frame_pressed_color">#ff35b5e5</color>
+
+    <color name="Teal_800">#ff00695c</color>
+
+    <color name="Blue_800">#ff2a56c6</color>
+
+    <color name="Indigo_800">#ff283593</color>
+    <color name="Purple_700">#ff7b1fa2</color>
+    <color name="Purple_800">#ff6a1b9a</color>
+    <color name="Pink_700">#ffc2185b</color>
+    <color name="Pink_800">#ffad1457</color>
+
+    <color name="Red_800">#ffb93221</color>
+    <color name="chooser_service_row_background_color">#fff5f5f5</color>
+    <color name="system_bar_background_semi_transparent">#66000000</color>
+    <color name="resize_shadow_start_color">#2a000000</color>
+    <color name="resize_shadow_end_color">#00000000</color>
+    <color name="background_holo_dark">#ff000000</color>
+    <color name="background_holo_light">#fff3f3f3</color>
+    <color name="bright_foreground_holo_dark">@android:color/white</color>
+    <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+
+    <color name="dim_foreground_holo_dark">#ffbebebe</color>
+    <color name="dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="dim_foreground_inverse_holo_dark">#ff323232</color>
+    <color name="dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+
+    <color name="dim_foreground_disabled_holo_light">#80323232</color>
+    <color name="dim_foreground_inverse_holo_light">#ffbebebe</color>
+    <color name="dim_foreground_inverse_disabled_holo_light">#80bebebe</color>
+
+    <color name="link_text_holo_dark">#ff5c5cff</color>
+    <color name="link_text_holo_light">#ff0000ee</color>
+
+    <color name="holo_primary">#ff222222</color>
+    <color name="holo_control_activated">@android:color/holo_blue_bright</color>
+    <color name="holo_control_normal">#39cccccc</color>
+    <color name="holo_button_pressed">#59f0f0f0</color>
+    <color name="holo_button_normal">#bd292f34</color>
+
+    <color name="holo_light_primary">#ffe6e6e6</color>
+    <color name="holo_light_control_activated">@android:color/holo_blue_bright</color>
+    <color name="holo_light_control_normal">#dacccccc</color>
+    <color name="holo_light_button_pressed">#66666666</color>
+    <color name="holo_light_button_normal">#b3cccccc</color>
+    <color name="group_button_dialog_pressed_holo_dark">#46c5c1ff</color>
+    <color name="group_button_dialog_focused_holo_dark">#2699cc00</color>
+    <color name="group_button_dialog_pressed_holo_light">#ffffffff</color>
+    <color name="group_button_dialog_focused_holo_light">#4699cc00</color>
+
+
+    <color name="primary_text_leanback_light">#ffffff00</color> <!-- was cc222222 -->
+
+
+    <color name="secondary_text_leanback_light">#ffbc13fe</color> <!-- was #99222222 -->
+
+
+    <color name="primary_text_leanback_formwizard_default_dark">#ffeeeeee</color>
+    <color name="legacy_green">#ff90df25</color>
+    <color name="legacy_orange">#fffea50b</color>
+    <color name="legacy_pressed_highlight">#fffeaa0c</color>
+    <color name="legacy_selected_highlight">#fff17a0a</color>
+    <color name="legacy_long_pressed_highlight">#ffffffff</color>
+
+    <color name="legacy_primary_dark">#ff0000ff</color>  <!-- was #ff000000 -->
+
+    <!-- status bar and navbar in many situations -->
+    <color name="legacy_primary">@android:color/background_dark</color>
+
+
+    <color name="legacy_control_activated">@android:color/holo_blue_bright</color>
+    <color name="legacy_control_normal">#99ffffff</color>
+    <color name="legacy_button_pressed">@android:color/holo_blue_bright</color>
+    <color name="legacy_button_normal">#f3dbdbdb</color>
+
+
+    <color name="legacy_light_primary_dark">@android:color/background_dark</color> <!-- was #ff000000 -->
+
+
+    <color name="legacy_light_primary">#ffe6e6e6</color>
+    <color name="legacy_light_control_activated">@android:color/holo_blue_bright</color>
+    <color name="legacy_light_control_normal">#99000000</color>
+    <color name="legacy_light_button_pressed">@android:color/holo_blue_bright</color>
+    <color name="legacy_light_button_normal">#f3dbdbdb</color>
+
+    <color name="primary_dark_material_light">@android:color/holo_blue_light</color>
+    <color name="primary_dark_material_light_light_status_bar">@android:color/holo_blue_dark</color>
+
+    <color name="material_grey_600">#ff757575</color>
+    <color name="material_grey_300">#ffe0e0e0</color>
+    <color name="material_grey_100">#fff5f5f5</color>
+    <color name="material_grey_50">#fffafafa</color>
 
 
 

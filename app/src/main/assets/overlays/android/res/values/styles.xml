@@ -3,6 +3,9 @@
     <style name="Theme.Holo.Light.Panel" parent="@*android:style/Theme.Holo.Panel" />
     <style name="Theme.Holo.InputMethod" parent="@*android:style/Theme.Holo.InputMethod"><item name="imeFullscreenBackground">@*android:drawable/screen_background_selector_light</item>
     </style>
+
+    <style name="Theme.DeviceDefault.Light" parent="@*android:style/Theme.Material" />
+
     <style name="Theme.DeviceDefault.Light.NoActionBar" parent="@*android:style/Theme.Material.NoActionBar" />
     <style name="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" parent="@*android:style/Theme.Material.NoActionBar.Fullscreen" />
     <style name="Theme.DeviceDefault.Light.Dialog" parent="@*android:style/Theme.Material.Dialog" />
@@ -81,18 +84,6 @@
         <item name="colorAccent">@android:color/holo_blue_bright</item>
         <item name="dialogTheme">@*android:style/Theme.Material.Dialog</item>
         <item name="presentationTheme">@*android:style/Theme.Material.Dialog.Presentation</item>
-        <item name="textColorPrimary">#ffffffff</item>
-        <item name="textColorSecondary">#ffdddddd</item>
-    </style>
-    <style name="Theme.Material.Settings.NoActionBar" parent="@*android:style/Theme.Material.NoActionBar">
-        <item name="colorBackground">@*android:color/background_dark</item>
-        <item name="panelMenuListTheme">@*android:style/Theme.Material.Settings.Dialog.Presentation</item>
-        <item name="searchDialogTheme">@*android:style/Theme.Material.Settings.Dialog.BaseAlert</item>
-        <item name="textColor">#ffffffff</item>
-        <item name="colorPrimary">@*android:color/holo_blue_light</item>
-        <item name="colorPrimaryDark">@*android:color/holo_blue_dark</item>
-        <item name="colorAccent">@android:color/holo_blue_bright</item>
-        <item name="presentationTheme">@*android:style/Theme.Material.Settings.BaseDialog</item>
         <item name="textColorPrimary">#ffffffff</item>
         <item name="textColorSecondary">#ffdddddd</item>
     </style>
@@ -298,7 +289,11 @@
         <item name="android:layout_marginEnd">0.0dip</item>
     </style>
 
-
+    <style name="Theme.Material.Settings.NoActionBar" parent="@*android:style/Theme.Material.NoActionBar">
+        <item name="colorPrimary">@android:color/holo_blue_light</item>
+        <item name="colorPrimaryDark">@android:color/holo_blue_dark</item>
+        <item name="colorAccent">@android:color/holo_blue_bright</item>
+    </style>
 
 
 </resources>
