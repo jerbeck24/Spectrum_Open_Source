@@ -3,7 +3,10 @@
 
 
     <color name="primary_text_default_material_dark">@android:color/white</color>
+
+
     <color name="material_deep_teal_200">@android:color/holo_blue_bright</color>
+
     <color name="material_deep_teal_500">@android:color/holo_blue_bright</color>
     <color name="material_blue_grey_800">@android:color/holo_blue_light</color>
     <color name="material_blue_grey_900">@android:color/holo_blue_light</color>
@@ -82,8 +85,8 @@
     <color name="primary_text_leanback_dark">@android:color/holo_blue_bright</color>
     <color name="primary_text_holo_light">@*android:color/Teal_700</color>
     <color name="primary_text_nodisable_holo_light">@android:color/holo_blue_bright</color>
-    <!-- "Cast to" text when casting to chromecast -->
-    <color name="primary_text_default_material_light">@android:color/holo_blue_bright</color>
+    <!-- "Cast to" text when casting to chromecast - TEXT IN N WHEN TURNING OFF CELL DATA IN SETTINGS -->
+    <color name="primary_text_default_material_light">#ff555555</color>
     <color name="primary_text_disable_only_holo_dark">@android:color/holo_blue_bright</color>
     <color name="primary_text_disable_only_holo_light">@android:color/holo_blue_bright</color>
     <color name="primary_text_nodisable_holo_dark">@android:color/holo_blue_bright</color>
@@ -107,11 +110,12 @@
     <color name="tertiary_text_holo_dark">@android:color/holo_blue_bright</color>
     <color name="tertiary_text_holo_light">@android:color/holo_blue_bright</color>
     <color name="accessibility_focus_highlight">@android:color/holo_blue_bright</color>
-    <color name="bright_foreground_holo_light">@android:color/holo_blue_bright</color>
+    <color name="bright_foreground_holo_light">#ff00ff00</color>
     <color name="link_text_dark">@*android:color/Teal_700</color>
     <color name="link_text_light">@*android:color/Teal_700</color>
     <color name="search_url_text_holo">@android:color/holo_blue_bright</color>
-    <color name="user_icon_1">@android:color/holo_blue_bright</color>
+
+    <color name="user_icon_1">#ffffff00</color>
     <color name="user_icon_2">@*android:color/Teal_700</color>
     <color name="user_icon_3">@*android:color/Teal_700</color>
     <color name="user_icon_4">@*android:color/Teal_700</color>
@@ -238,11 +242,11 @@
 
     <!-- BG for the quick reply option -->
     <color name="notification_action_list">@android:color/background_dark</color>
-    <!-- Notirication Text for Screenshots -->
+    <!-- Notification Text for Screenshots -->
     <color name="material_deep_teal_100">@android:color/holo_blue_bright</color>
     <color name="material_deep_teal_300">@android:color/holo_blue_bright</color>
-    <!-- BG of navbar a lot of the time -->
-    <color name="black">#ffff00ff</color> <!-- was #ff000000 -->
+    <!-- BG of navbar a lot of the time, status bar in some apps, More settings text in notifications -->
+    <color name="black">#ff000000</color>
 
 
 
@@ -358,10 +362,10 @@
     <color name="group_button_dialog_focused_holo_light">#4699cc00</color>
 
 
-    <color name="primary_text_leanback_light">#ffffff00</color> <!-- was cc222222 -->
+    <color name="primary_text_leanback_light">#cc222222</color> <!-- was cc222222 -->
 
 
-    <color name="secondary_text_leanback_light">#ffbc13fe</color> <!-- was #99222222 -->
+    <color name="secondary_text_leanback_light">#99222222</color> <!-- was #99222222 -->
 
 
     <color name="primary_text_leanback_formwizard_default_dark">#ffeeeeee</color>
@@ -371,7 +375,7 @@
     <color name="legacy_selected_highlight">#fff17a0a</color>
     <color name="legacy_long_pressed_highlight">#ffffffff</color>
 
-    <color name="legacy_primary_dark">#ff0000ff</color>  <!-- was #ff000000 -->
+    <color name="legacy_primary_dark">#ffffff00</color>  <!-- was #ff000000 -->
 
     <!-- status bar and navbar in many situations -->
     <color name="legacy_primary">@android:color/background_dark</color>

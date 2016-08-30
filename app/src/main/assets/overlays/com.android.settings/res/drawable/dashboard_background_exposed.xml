@@ -3,6 +3,7 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <shape android:shape="rectangle">
+            <!-- was @android:color/holo_blue_bright -->
             <solid android:color="@android:color/holo_blue_bright" />
             <padding android:bottom="1.0dip" />
             <corners android:topLeftRadius="6.0dip" android:topRightRadius="6.0dip" android:bottomLeftRadius="6.0dip" android:bottomRightRadius="6.0dip" />
