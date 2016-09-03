@@ -3,7 +3,10 @@
 
 
     <color name="primary_text_default_material_dark">@android:color/white</color>
-
+    <!-- Status Bar in Settings -->
+    <color name="primary_dark_material_dark">@android:color/holo_blue_dark</color>
+    <!-- Action bar in Settings -->
+    <color name="primary_material_dark">@android:color/holo_blue_light</color>
 
     <color name="material_deep_teal_200">@android:color/holo_blue_bright</color>
 
@@ -16,7 +19,7 @@
     <color name="secondary_text_default_material_light">#ffcccccc</color>
     <color name="background_floating_material_dark">@android:color/holo_purple</color>
     <color name="background_material_dark">@android:color/background_dark</color>
-    <color name="primary_material_dark">@android:color/background_dark</color>
+
     <color name="background_leanback_dark">@android:color/background_dark</color>
     <color name="notification_action_color_filter">#fffafafa</color>
     <color name="notification_progress_background_color">#fffafafa</color>
