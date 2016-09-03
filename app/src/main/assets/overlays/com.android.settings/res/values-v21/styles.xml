@@ -22,5 +22,8 @@
     <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material">
         <item name="android:colorBackground">@android:color/background_dark</item>
         <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:statusBarColor">@*android:color/holo_blue_dark</item>
+        <!-- Text in settings when turning off data or on hotspot or something similar -->
+        <item name="android:textColorPrimaryInverse">@*android:color/Teal_700</item>
     </style>
 </resources>

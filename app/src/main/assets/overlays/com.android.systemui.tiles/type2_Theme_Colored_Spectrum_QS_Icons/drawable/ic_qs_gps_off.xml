@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="root" android:height="48.0dip" android:width="48.0dip" android:alpha="0.3" android:viewportWidth="48.0" android:viewportHeight="48.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="ic_signal_airplane" android:translateX="21.9995" android:translateY="25.73401">
+        <group android:name="ic_signal_airplane_pivot" android:translateX="-23.21545" android:translateY="-18.86649">
+            <clip-path android:name="mask" android:pathData="M 37.8337860107,-40.3974914551 c 0.0,0.0 -35.8077850342,31.5523681641 -35.8077850342,31.5523681641 c 0.0,0.0 40.9884796143,40.9278411865 40.9884796143,40.9278411865 c 0.0,0.0 -2.61700439453,2.0938873291 -2.61700439453,2.0938873291 c 0.0,0.0 -41.1884460449,-40.9392852783 -41.1884460449,-40.9392852783 c 0.0,0.0 -34.6200408936,25.4699249268 -34.6200408936,25.4699249268 c 0.0,0.0 55.9664764404,69.742401123 55.9664764404,69.742401123 c 0.0,0.0 73.2448120117,-59.1047973633 73.2448120117,-59.1047973633 c 0.0,0.0 -55.9664916992,-69.7423400879 -55.9664916992,-69.7423400879 Z" />
+            <group android:name="cross">
+                <path android:name="cross_1" android:fillColor="#00000000" android:pathData="M 7.54049682617,3.9430847168 c 0.0,0.0 31.5749816895,31.4499664307 31.5749816895,31.4499664307 " android:strokeColor="@*android:color/Teal_700" android:strokeWidth="3.5" android:strokeAlpha="1.0" />
+            </group>
+            <group android:name="plane" android:translateX="23.481" android:translateY="18.71151">
+                <path android:name="plane_1" android:fillColor="@*android:color/Teal_700" android:pathData="M8.74,0c0,3.682-2.985,6.667-6.667,6.667C-1.61,6.667-4.593,3.682-4.593,0s2.983-6.667,6.667-6.667  C5.755-6.667,8.74-3.682,8.74,0z M22.073,1.667h-5.097C16.218,8.657,10.731,14.145,3.74,14.903V20H0.407v-5.097  C-6.582,14.145-12.069,8.657-12.83,1.667h-5.097v-3.333h5.097c0.761-6.989,6.248-12.476,13.237-13.237V-20H3.74v5.097  c6.991,0.761,12.478,6.25,13.237,13.237h5.097V1.667z M14.573,0c0-6.834-5.668-12.501-12.5-12.501  C-4.76-12.501-10.428-6.834-10.428,0c0,6.832,5.668,12.501,12.502,12.501C8.906,12.501,14.573,6.832,14.573,0z" android:fillAlpha="1.0" />
+            </group>
+        </group>
+    </group>
+</vector>

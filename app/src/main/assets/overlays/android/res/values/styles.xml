@@ -268,9 +268,12 @@
         <item name="colorPrimary">@android:color/holo_blue_light</item>
         <item name="colorPrimaryDark">@android:color/holo_blue_dark</item>
         <item name="colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:statusBarColor">@android:color/holo_blue_dark</item>
     </style>
 
-
+    <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material">
+        <item name="android:textColorPrimaryInverse">@*android:color/Teal_700</item>
+    </style>
 
 
 </resources>

@@ -114,8 +114,8 @@
     <color name="link_text_dark">@*android:color/Teal_700</color>
     <color name="link_text_light">@*android:color/Teal_700</color>
     <color name="search_url_text_holo">@android:color/holo_blue_bright</color>
-
-    <color name="user_icon_1">#ffffff00</color>
+    <!-- User Icon -->
+    <color name="user_icon_1">@*android:color/Teal_700</color>
     <color name="user_icon_2">@*android:color/Teal_700</color>
     <color name="user_icon_3">@*android:color/Teal_700</color>
     <color name="user_icon_4">@*android:color/Teal_700</color>
