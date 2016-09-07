@@ -4,29 +4,40 @@
     <style name="Theme.Light.WifiDialog" parent="@android:style/Theme.Material.Dialog.Alert" />
     <style name="Theme.SettingsBase" parent="@android:style/Theme.Material">
         <!-- @android:color/background_dark for NO OVERLAP, @android:drawable/menuitem_background for OVERLAP -->
-        <item name="android:windowBackground">@android:drawable/menuitem_background</item>
+        <item name="android:windowBackground">@*android:drawable/menuitem_background</item>
         <item name="android:colorBackground">@android:color/background_dark</item>
-
+        <!-- Action Bar in Settings - do not use with card overlap -->
         <item name="android:colorPrimary">@*android:color/holo_blue_light</item>
+
+        <!-- Status Bar in settings -->
         <item name="android:colorPrimaryDark">@*android:color/holo_blue_dark</item>
+
         <!-- BG IN N WHEN TURNING OFF CELL DATA -->
         <item name="android:colorAccent">@*android:color/holo_blue_bright</item>
+
         <item name="android:statusBarColor">@*android:color/holo_blue_dark</item>
         <item name="android:navigationBarColor">@*android:color/background_dark</item>
+
+        <!-- Text in settings when turning off cell data or on hotspot or something similar -->
+        <item name="android:textColorPrimaryInverse">@*android:color/Teal_700</item>
+
     </style>
+
     <!-- REMOVED FOR FINGERPRINT SENSOR FC
     <style name="Theme.SubSettings" parent="@style/Theme.SettingsBase">
         <item name="android:windowBackground">@android:color/background_dark</item>
     </style>
     -->
+
     <style name="Theme.ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
-        <item name="android:background">@*android:drawable/action_bar_background</item>
+        <item name="android:background">@android:color/holo_blue_light</item>
         <item name="android:backgroundStacked">@*android:drawable/action_bar_background</item>
         <item name="android:backgroundSplit">@*android:drawable/action_bar_background</item>
         <item name="android:elevation">0.0dip</item>
         <item name="android:contentInsetStart">16dp</item>
         <item name="android:statusBarColor">@android:color/holo_blue_dark</item>
     </style>
+
     <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
         <item name="android:colorForeground">#ffffffff</item>
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
@@ -35,17 +46,13 @@
         <item name="android:colorAccent">@android:color/holo_blue_bright</item>
         <item name="android:statusBarColor">@android:color/holo_blue_dark</item>
     </style>
+
     <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert" />
 
     <style name="TextAppearance.CategoryTitle" parent="@android:style/Theme.Material">
         <item name="android:textColor">@*android:color/Teal_700</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">16.0sp</item>
-    </style>
-
-    <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material">
-        <!-- Text in settings when turning off data or on hotspot or something similar -->
-        <item name="android:textColorPrimaryInverse">@*android:color/Teal_700</item>
     </style>
 
 </resources>

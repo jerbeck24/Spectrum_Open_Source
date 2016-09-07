@@ -11,7 +11,7 @@
 C15.8708,14.6785,16.675,13.8847,17.7659,13.731 L18,13.698 L18,14.849 L18,16
 L16.851,16 Z M17.4524,9.39954 " />
     <path
-        android:fillColor="?android:fillColor"
+        android:fillColor="@*android:color/Teal_700"
         android:fillAlpha="0.2"
         android:pathData="M17.4524,9.39955 C14.2912,9.60436,11.6044,12.2912,11.3995,15.4524 L11.3641,16
 L10.3745,16 L9.38484,16 L9.38593,15.6098

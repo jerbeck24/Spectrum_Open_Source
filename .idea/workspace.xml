@@ -8,7 +8,68 @@
   <component name="ChangeListManager">
     <list default="true" id="f317b3fd-b1f8-4dca-ba91-cfe703b5adc8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/android/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/android/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values-v21/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_3_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/res/drawable/stat_sys_signal_3_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Dark_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Dark_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Dark_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Dark_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_0_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_0_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_1_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_1_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_2_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_2_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_null.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_null.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_0_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_0_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_1_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_1_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_2_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_2_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_3_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_3_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_null.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Nexus_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_null.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_0_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_0_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_1_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_1_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_2_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_2_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_3_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_null.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_signal_null.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_0_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_0_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_1_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_1_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_2_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_2_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_3_fully.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_3_fully.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_null.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.statusbars/type2_Theme_Colored_Spectrum_StatusBar_Icons/drawable/stat_sys_wifi_signal_null.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_data_saver_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_data_saver_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Nexus_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_data_saver_off.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_data_saver_off.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_signal_full_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_0.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_1.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_2.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_3.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_qs_wifi_full_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_settings.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui.tiles/type2_Theme_Colored_Spectrum_QS_Icons/drawable/ic_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_screenshot_delete.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_screenshot_delete.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_screenshot_share.xml" afterPath="$PROJECT_DIR$/app/src/main/assets/overlays/com.android.systemui/res/drawable/ic_screenshot_share.xml" />
     </list>
     <ignored path="Spectrum_Substratum.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,18 +101,7 @@
     <favorites_list name="Spectrum_Substratum" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/android/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/app/build/outputs/spectrumkeystore.jks" />
@@ -1730,11 +1780,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1844,10 +1889,129 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="overlays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.android.settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spectrum_Substratum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spectrum_Substratum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="overlays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.android.settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spectrum_Substratum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spectrum_Substratum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="overlays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.android.settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="color" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spectrum_Substratum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spectrum_Substratum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2157,7 +2321,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="110" y="24" width="1161" height="720" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2166,7 +2330,6 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2186,6 +2349,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2209,7 +2373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2217,7 +2380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2225,7 +2387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2233,7 +2394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2241,7 +2401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2249,7 +2408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2257,7 +2415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2265,7 +2422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2421,23 +2577,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/android/res/layout/text_edit_paste_window.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/substratum/theme/template/SubstratumLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.026041666">
           <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/android/res/values/colors.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/overlays/com.android.settings/res/color/audio_icon.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
