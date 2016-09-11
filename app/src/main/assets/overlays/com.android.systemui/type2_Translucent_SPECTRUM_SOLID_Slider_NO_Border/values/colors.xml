@@ -40,7 +40,6 @@
     <color name="recents_task_bar_light_text_color">@*android:color/Teal_700</color>
     <color name="recents_task_bar_dark_text_color">#ff000000</color>
 
-
     <color name="recents_task_bar_light_dismiss_color">#ffeeeeee</color>
     <color name="recents_task_bar_dark_dismiss_color">#99ffffff</color>
     <color name="recents_task_bar_highlight_color">#28ffffff</color>
@@ -141,6 +140,7 @@
 
     <!-- Reset bg in overflow menu in edit qs -->
     <color name="qs_edit_overflow_bg">@android:color/background_dark</color>
+
 
 
 

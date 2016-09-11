@@ -15,6 +15,7 @@
     <color name="system_bar_background_semi_transparent">#66000000</color>
     <color name="system_bar_background_transparent">#00000000</color>
     <color name="notification_panel_solid_background">@android:color/background_dark</color>
+    <!-- ??? -->
     <color name="status_bar_recents_app_label_color">@android:color/holo_blue_bright</color>
     <color name="notification_list_shadow_top">#80ffffff</color>
     <color name="batterymeter_frame_color">#66ffffff</color>
@@ -34,8 +35,12 @@
     <color name="qs_user_detail_icon_muted">#ffffff</color>
     <color name="keyguard_overflow_content_color">#fff5f5f5</color>
     <color name="recents_task_bar_default_background_color">@android:color/background_dark</color>
-    <color name="recents_task_bar_light_text_color">@android:color/holo_blue_bright</color>
-    <color name="recents_task_bar_dark_text_color">@android:color/holo_blue_bright</color>
+
+    <!-- App text color in recents -->
+    <color name="recents_task_bar_light_text_color">@*android:color/Teal_700</color>
+    <color name="recents_task_bar_dark_text_color">#ff000000</color>
+
+
     <color name="recents_task_bar_light_dismiss_color">#ffeeeeee</color>
     <color name="recents_task_bar_dark_dismiss_color">#99ffffff</color>
     <color name="recents_task_bar_highlight_color">#28ffffff</color>
