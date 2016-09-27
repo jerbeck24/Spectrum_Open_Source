@@ -156,7 +156,7 @@
     <color name="bright_foreground_light_inverse">#ffaaaaaa</color>
     <color name="dim_foreground_dark_inverse">#ffaaaaaa</color>
     <color name="dim_foreground_dark_inverse_disabled">#ffaaaaaa</color>
-    <color name="dim_foreground_light">#ffaaaaaa</color>
+    <color name="dim_foreground_light">#ff555555</color>
 
     <color name="config_defaultNotificationColor">#ffffffff</color>
 
@@ -406,7 +406,8 @@
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_50">#fffafafa</color>
 
-
+    <color name="notification_text_default_color">@*android:color/Teal_700 </color>
+    <color name="sender_text_color">@android:color/holo_blue_bright</color>
 
     
     

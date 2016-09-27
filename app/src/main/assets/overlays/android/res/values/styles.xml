@@ -184,7 +184,8 @@
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="TextAppearance.Material.Notification.Info" parent="@*android:style/TextAppearance.Material.Notification">
-        <item name="android:textSize">12.0sp</item>
+        <item name="android:textSize">@*android:dimen/notification_subtext_size</item>
+        <!-- Secondary Notification Text Color! -->
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="TextAppearance.Material.Notification.Line2" parent="@*android:style/TextAppearance.Material.Notification">
@@ -275,5 +276,11 @@
         <item name="android:textColorPrimaryInverse">@*android:color/Teal_700</item>
     </style>
 
+
+    <style name="Theme.Leanback.Settings.Dialog.Alert" parent="@*android:style/Theme.DeviceDefault.Dialog">
+        <item name="android:colorBackground">@*android:color/background_dark</item>
+        <item name="android:textColorPrimary">@*android:color/Teal_700</item>
+        <item name="android:textColorSecondary">#ffdddddd</item>
+    </style>
 
 </resources>
