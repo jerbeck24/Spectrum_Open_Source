@@ -406,7 +406,7 @@
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_50">#fffafafa</color>
 
-    <color name="notification_text_default_color">@*android:color/Teal_700 </color>
+    <color name="notification_text_default_color">@*android:color/Teal_700</color>
     <color name="sender_text_color">@android:color/holo_blue_bright</color>
 
     

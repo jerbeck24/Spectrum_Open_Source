@@ -8,8 +8,8 @@ android {
         applicationId "com.jerbeck24.Spectrum"
         minSdkVersion 22
         targetSdkVersion 24
-        versionCode 58
-        versionName "8.6"
+        versionCode 60
+        versionName "8.7"
     }
     buildTypes {
         release {
