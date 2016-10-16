@@ -24,8 +24,8 @@
     <color name="notification_progress_background_color">#fffafafa</color>
     <color name="notification_icon_bg_color">#00000000</color>
     <color name="dslv_icon_dark">@android:color/holo_blue_bright</color>
-    <color name="ripple_material_dark">#4dffffff</color>
-    <color name="ripple_material_light">#4dffffff</color>
+    <color name="ripple_material_dark">@*android:color/Teal_700</color>
+    <color name="ripple_material_light">@*android:color/Teal_700</color>
     <color name="exposed_bg_dark">@android:color/background_dark</color>
     <color name="exposed_notification_big_pic_bg">@android:color/holo_purple</color>
     <color name="exposed_resolver_list_bg">@android:color/background_dark</color>
@@ -326,7 +326,6 @@
 
     <color name="Red_800">#ffb93221</color>
     <color name="chooser_service_row_background_color">#fff5f5f5</color>
-    <color name="system_bar_background_semi_transparent">#66000000</color>
     <color name="resize_shadow_start_color">#2a000000</color>
     <color name="resize_shadow_end_color">#00000000</color>
     <color name="background_holo_dark">#ff000000</color>
@@ -409,6 +408,11 @@
     <color name="notification_text_default_color">@*android:color/Teal_700</color>
     <color name="sender_text_color">@android:color/holo_blue_bright</color>
 
+    <!-- Status Bar Tint Color in Settings -->
+    <color name="system_bar_background_semi_transparent">@android:color/transparent</color>
+
+    <color name="switch_bar_background">@android:color/holo_blue_light</color>
+    <color name="switch_accent_color">@android:color/holo_blue_bright</color>
     
     
 </resources>

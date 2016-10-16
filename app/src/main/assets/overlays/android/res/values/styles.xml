@@ -176,7 +176,7 @@
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="TextAppearance.Material.Notification" parent="@*android:style/TextAppearance.Material">
-        <item name="android:textSize">14.0sp</item>
+        <item name="android:textSize">@*android:dimen/notification_subtext_size</item>
         <!-- Secondary Notification Text Color! -->
         <item name="android:textColor">#ffffffff</item>
     </style>
@@ -189,15 +189,14 @@
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="TextAppearance.Material.Notification.Line2" parent="@*android:style/TextAppearance.Material.Notification">
-        <item name="android:textSize">12.0sp</item>
+        <item name="android:textSize">@*android:dimen/notification_subtext_size</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="TextAppearance.Material.Notification.Time" parent="@*android:style/TextAppearance.Material.Notification">
-        <item name="android:textSize">12.0sp</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="TextAppearance.Material.Notification.Title" parent="@*android:style/TextAppearance.Material.Notification">
-        <item name="android:textSize">16.0sp</item>
+        <item name="android:textSize">@*android:dimen/notification_title_text_size</item>
         <!-- Main Notification Text Color!!!!!!!! -->
         <item name="android:textColor">@*android:color/Teal_700</item>
     </style>

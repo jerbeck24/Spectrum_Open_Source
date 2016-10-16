@@ -8,7 +8,7 @@
     <color name="status_bar_background_opaque">@android:color/background_dark</color>
     <color name="status_bar_background_semi_transparent">#66000000</color>
     <color name="status_bar_background_transparent">#00000000</color>
-    <color name="navigation_bar_background_opaque">@android:color/holo_blue_dark</color>
+    <color name="navigation_bar_background_opaque">@android:color/background_dark</color>
     <color name="navigation_bar_background_semi_transparent">#66000000</color>
     <color name="navigation_bar_background_transparent">#00000000</color>
     <color name="system_bar_background_opaque">@android:color/background_dark</color>
@@ -16,7 +16,7 @@
     <color name="system_bar_background_transparent">#00000000</color>
     <color name="notification_panel_solid_background">@android:color/background_dark</color>
     <!-- ??? -->
-    <color name="status_bar_recents_app_label_color">@android:color/holo_blue_bright</color>
+    <color name="status_bar_recents_app_label_color">#ffffffff</color>
     <color name="notification_list_shadow_top">#80ffffff</color>
     <color name="batterymeter_frame_color">#66ffffff</color>
     <color name="batterymeter_charge_color">@android:color/holo_blue_bright</color>
@@ -37,7 +37,7 @@
     <color name="recents_task_bar_default_background_color">@android:color/background_dark</color>
 
     <!-- App text color in recents -->
-    <color name="recents_task_bar_light_text_color">@*android:color/Teal_700</color>
+    <color name="recents_task_bar_light_text_color">#ffffffff</color>
     <color name="recents_task_bar_dark_text_color">#ff000000</color>
 
 
@@ -146,8 +146,8 @@
 
     <!-- Edit BG for QS -->
     <color name="qs_edit_item_decoration_bg">@android:color/background_dark</color>
-
-
+    <!-- More Settings and Done text when pressing tiles -->
+    <color name="qs_detail_button">@*android:color/Teal_700</color>
 
 
 

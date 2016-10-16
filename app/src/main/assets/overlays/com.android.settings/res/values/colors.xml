@@ -37,6 +37,8 @@
     <color name="dslv_icon_dark">#ffffffff</color>
     <color name="exposed_expanded_item">#ffffffff</color>
 
+    <color name="usage_graph_dots">@*android:color/Teal_700</color>
+
 
     <color name="cardview_light_background">@android:color/holo_purple</color>
     <color name="exposed_bg_light">@android:color/holo_blue_light</color>
