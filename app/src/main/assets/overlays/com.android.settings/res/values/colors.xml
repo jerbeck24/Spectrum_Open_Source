@@ -92,6 +92,10 @@
     <!-- Data color in settings -->
     <color name="memory_normal">@android:color/holo_blue_bright</color>
 
+    <color name="summary_default_start">@*android:color/Teal_700</color>
+    <color name="summary_default_end">#ff999999</color>
+
+
 
 
 

@@ -149,6 +149,24 @@
     <!-- More Settings and Done text when pressing tiles -->
     <color name="qs_detail_button">@*android:color/Teal_700</color>
 
+    <!-- Nav bar tuner colors -->
+    <color name="navbar_tuner_background_color">@android:color/background_dark</color>
+    <color name="navbar_tuner_text_color">@*android:color/Teal_700</color>
+
+    <!-- Navigation button ripple color -->
+    <color name="navbutton_ripple_color">@*android:color/Teal_700</color>
+
+    <!-- QS battery % text color -->
+    <color name="qs_battery_text_color">#ffffffff</color>
+
+    <!-- QS battery graph text color -->
+    <color name="qs_battery_graph_text_color">@android:color/holo_blue_bright</color>
+
+    <!-- QS battery accent color -->
+    <color name="qs_battery_accent">@*android:color/Teal_700</color>
+
+    <!-- QS date usage text color -->
+    <color name="data_usage_primary">@android:color/holo_blue_bright</color>
 
 
 

@@ -16,7 +16,7 @@
         <item name="android:colorAccent">@*android:color/holo_blue_bright</item>
 
         <item name="android:statusBarColor">@*android:color/holo_blue_dark</item>
-        <item name="android:navigationBarColor">@*android:color/background_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
 
         <!-- Text in settings when turning off cell data or on hotspot or something similar -->
         <item name="android:textColorPrimaryInverse">@*android:color/Teal_700</item>
