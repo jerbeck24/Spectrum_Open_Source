@@ -8,13 +8,27 @@ android {
         applicationId "com.jerbeck24.Spectrum"
         minSdkVersion 23
         targetSdkVersion 24
-        versionCode 62
-        versionName "9.0"
+        versionCode 65
+        versionName "9.1"
     }
     buildTypes {
-        release {
-            minifyEnabled true
+        def BOOLEAN = "boolean"
+        def TRUE = "true"
+        def FALSE = "false"
+        def ANTI_PIRACY = "ENABLE_ANTI_PIRACY"
+        def SUBSTRATE_MODULE = "SUBSTRATE_MODULE"
+
+        debug {
+            minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField(BOOLEAN, ANTI_PIRACY, FALSE)
+            buildConfigField(BOOLEAN, SUBSTRATE_MODULE, TRUE)
+        }
+        release {
+            minifyEnabled false //Make true for release
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField(BOOLEAN, ANTI_PIRACY, FALSE) //keep FALSE
+            buildConfigField(BOOLEAN, SUBSTRATE_MODULE, TRUE)
         }
     }
 }
@@ -23,4 +37,5 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.github.javiersantos:PiracyChecker:0.0.2'
+    compile project (':substrate')
 }

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-
     <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="@*android:style/Widget.Material.ActionBar.TabView" />
     <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="@*android:style/Widget.Material.ActionBar.TabText" />
     <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@*android:style/Widget.Material.ActionBar.TabText" />
@@ -18,14 +17,13 @@
         <item name="android:windowActionBar">false</item>
         <item name="android:textColorLinkInverse">@android:color/holo_blue_bright</item>
         <item name="android:windowBackground">@android:color/background_dark</item>
-        <item name="android:navigationBarColor">@*android:color/background_dark</item>
     </style>
     <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material">
         <item name="android:colorBackground">@android:color/background_dark</item>
         <!-- CARD OVERLAP @android:color/background_dark for NO OVERLAP, @android:drawable/menuitem_background for OVERLAP -->
         <item name="android:windowBackground">@*android:drawable/menuitem_background</item>
-        <item name="android:statusBarColor">@*android:color/holo_blue_dark</item>
         <!-- Text in settings when turning off data or on hotspot or something similar -->
         <item name="android:textColorPrimaryInverse">#ffbc13fe</item>
     </style>
+
 </resources>

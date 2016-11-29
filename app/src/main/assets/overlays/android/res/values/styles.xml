@@ -7,8 +7,9 @@
     <style name="Theme.Holo.InputMethod" parent="@*android:style/Theme.Holo.InputMethod"><item name="imeFullscreenBackground">@*android:drawable/screen_background_selector_light</item>
     </style>
 
-    <style name="Theme.DeviceDefault.Light" parent="@*android:style/Theme.Material" />
+    <style name="Theme.DeviceDefault.Dialog.Alert" parent="@*android:style/Theme.Material.Dialog.Alert" />
 
+    <style name="Theme.DeviceDefault.Light" parent="@*android:style/Theme.Material" />
     <style name="Theme.DeviceDefault.Light.NoActionBar" parent="@*android:style/Theme.Material.NoActionBar" />
     <style name="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" parent="@*android:style/Theme.Material.NoActionBar.Fullscreen" />
     <style name="Theme.DeviceDefault.Light.Dialog" parent="@*android:style/Theme.Material.Dialog" />
@@ -136,7 +137,7 @@
     <style name="Theme.Material.SearchBar" parent="@*android:style/Theme.Material.Panel" />
     <style name="Theme.DeviceDefault.Resolver" parent="@*android:style/Theme.Material.Panel">
         <item name="android:windowBackground">@android:color/transparent</item>
-        <item name="android:colorAccent">#ffff00ff</item>
+        <item name="android:colorAccent">@*android:color/Teal_700</item>
         <item name="android:backgroundTint">@*android:color/background_dark</item>
         <item name="windowNoTitle">true</item>
         <item name="windowIsTranslucent">true</item>
@@ -224,44 +225,14 @@
     <style name="Theme.Material.DayNight.NoActionBar.TranslucentDecor" parent="@android:style/Theme.Material.NoActionBar.TranslucentDecor" />
     <style name="Theme.Material.DayNight.Panel" parent="@android:style/Theme.Material.Panel" />
 
+    <style name="Theme.Dialog.AppError" parent="@*android:style/Theme.Material.Dialog" />
+
     <!--- Below are the styles that control the Day/Night Switch for BenzoRom.Removing these will cause white text on white dialogs -->
 
     <style name="Theme.Material.DayNight.BaseDialog" parent="@android:style/Theme.Material.Dialog" />
     <style name="Theme.Material.DayNight.Dialog.FixedSize" parent="@style/Theme.Material.DayNight.Dialog.NoActionBar.FixedSize" />
     <style name="Theme.Material.DayNight.Dialog.NoActionBar.FixedSize" parent="@android:style/Theme.Material.Dialog" />
     <style name="Theme.Material.DayNight.Dialog.BaseAlert" parent="@android:style/Theme.Material.Dialog" />
-
-
-    <style name="Widget" />
-    <style name="Widget.CalendarView">
-        <item name="selectedWeekBackgroundColor">#33ffffff</item>
-        <item name="focusedMonthDateColor">@android:color/holo_blue_bright</item>
-        <item name="unfocusedMonthDateColor">@*android:color/Teal_700</item>
-        <item name="weekNumberColor">#33ffffff</item>
-        <item name="weekSeparatorLineColor">@*android:color/Teal_700</item>
-    </style>
-
-    <style name="Widget.Material.ActionBar.Solid" parent="@*android:style/Widget.ActionBar">
-        <item name="android:background">@android:color/holo_blue_light</item>
-        <item name="android:layout_marginTop">0.0dip</item>
-        <item name="android:layout_marginBottom">0.0dip</item>
-        <item name="android:displayOptions">showTitle</item>
-        <item name="android:backgroundStacked">@android:color/holo_blue_light</item>
-        <item name="android:backgroundSplit">@android:color/holo_blue_light</item>
-        <item name="android:layout_marginStart">0.0dip</item>
-        <item name="android:layout_marginEnd">0.0dip</item>
-    </style>
-    <style name="Widget.Material.Light.ActionBar.Solid" parent="@*android:style/Widget.ActionBar">
-        <item name="android:background">@android:color/holo_blue_light</item>
-
-        <item name="android:layout_marginTop">0.0dip</item>
-        <item name="android:layout_marginBottom">0.0dip</item>
-        <item name="android:displayOptions">showTitle</item>
-        <item name="android:backgroundStacked">@android:color/holo_blue_light</item>
-        <item name="android:backgroundSplit">@android:color/holo_blue_light</item>
-        <item name="android:layout_marginStart">0.0dip</item>
-        <item name="android:layout_marginEnd">0.0dip</item>
-    </style>
 
 
     <style name="Theme.Material.Settings.NoActionBar" parent="@*android:style/Theme.Material.NoActionBar">
@@ -271,10 +242,14 @@
         <item name="android:statusBarColor">@android:color/holo_blue_dark</item>
     </style>
 
-    <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material">
-        <item name="android:textColorPrimaryInverse">@*android:color/Teal_700</item>
-    </style>
+    <style name="AlertDialog.DeviceDefault.Light" parent="@*android:style/Theme.DeviceDefault.Dialog" />
+    <style name="AlertDialog.DeviceDefault" parent="@*android:style/Theme.DeviceDefault.Dialog" />
 
+    <style name="TextAppearance.Material.Notification.Reply" parent="@*android:style/TextAppearance.Material.Notification">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorPrimary">@*android:color/Teal_700</item>
+        <item name="android:textColorSecondary">#ffdddddd</item>
+    </style>
 
     <style name="Theme.Leanback.Settings.Dialog.Alert" parent="@*android:style/Theme.DeviceDefault.Dialog">
         <item name="android:colorBackground">@*android:color/background_dark</item>
