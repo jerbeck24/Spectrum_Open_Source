@@ -1,29 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ThemeChangelog">"What is New in Version 7.2?
-• Substratum Ready!
-• Legacy (Layers) Compatible!
-• Added Support for Substratum v170 and Above
-• Rebase with Official Source!
-• Added No Border Option for Notifications in SystemUI!
-• Added Custom Switches option to Framework!
-• Added a couple boot animations back in!
-• Added apps back in:
-    • AOSP Browser
-    • Lock Clock
-    • AOSP Messaging
-    • SMS Backup and Restore
-• Added Drive!
-• Added Pure Tools!
-• Added MatLog!
-• Fixed app icon!
-• Fixed SuperSU Background Color!
-• Fixed Data Graph When Pressing Signal Icon in QS!
-• New header image!
-• Removed Play Music due to compiling issues.
-• Other bug fixes!"</string>
+    <string name="ThemeChangelog">"What is New in Version 9.1?
+• Fixed Gmail!
+•
+        "</string>
 
     <string name="ThemeAuthor">Jeremy Beck</string>
     <string name="ThemeName">Spectrum</string>
+
 
 </resources>
