@@ -80,15 +80,13 @@
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
         <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
         <item name="android:colorAccent">@android:color/holo_blue_bright</item>
-        <item name="android:statusBarColor">@android:color/holo_blue_dark</item>
-        <item name="android:navigationBarColor">@android:color/background_dark</item>
     </style>
-    <style name="Theme.Material.Settings.BaseDialog" parent="@*android:style/Theme.Leanback.Dialog.AppError">
+    <style name="Theme.Material.Settings.BaseDialog" parent="@*android:style/Theme.Material.BaseDialog">
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
         <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
         <item name="android:colorAccent">@android:color/holo_blue_bright</item>
     </style>
-    <style name="Theme.Material.Settings.Dialog.BaseAlert" parent="@*android:style/Theme.Material.CompactMenu">
+    <style name="Theme.Material.Settings.Dialog.BaseAlert" parent="@*android:style/Theme.Material.Dialog.BaseAlert">
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
         <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
         <item name="android:colorAccent">@android:color/holo_blue_bright</item>
@@ -108,12 +106,12 @@
         <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
         <item name="android:colorAccent">@android:color/holo_blue_bright</item>
     </style>
-    <style name="Theme.Material.Settings.SearchBar" parent="@*android:style/Theme.Leanback.Settings.Dialog">
+    <style name="Theme.Material.Settings.SearchBar" parent="@*android:style/Theme.Material.SearchBar">
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
         <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
         <item name="android:colorAccent">@android:color/holo_blue_bright</item>
     </style>
-    <style name="Theme.Material.Settings.CompactMenu" parent="@*android:style/Theme.Leanback.Light.Dialog.Alert">
+    <style name="Theme.Material.Settings.CompactMenu" parent="@*android:style/Theme.Material.CompactMenu">
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
         <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
         <item name="android:colorAccent">@android:color/holo_blue_bright</item>
@@ -126,12 +124,10 @@
     <style name="Theme.DeviceDefault.Light.Dialog.NoActionBar.FixedSize" parent="@*android:style/Theme.DeviceDefault.Dialog.NoActionBar" />
     <style name="Theme.DeviceDefault.Light.Dialog.Presentation" parent="@*android:style/Theme.Material.Dialog.Presentation" />
     <style name="Theme.DeviceDefault.Light.Dialog.Alert" parent="@*android:style/Theme.Material.Dialog.Alert" />
-    <style name="Theme.DeviceDefault.Settings" parent="@android:style/Theme.Material">
+    <style name="Theme.DeviceDefault.Settings" parent="@*android:style/Theme.Material">
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
         <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
         <item name="android:colorAccent">@android:color/holo_blue_bright</item>
-        <item name="android:statusBarColor">@android:color/holo_blue_dark</item>
-        <item name="android:navigationBarColor">@android:color/background_dark</item>
     </style>
     <style name="Theme.DeviceDefault.Light.SearchBar" parent="@*android:style/Theme.Leanback.Settings.Dialog" />
     <style name="Theme.Material.SearchBar" parent="@*android:style/Theme.Material.Panel" />
@@ -236,10 +232,9 @@
 
 
     <style name="Theme.Material.Settings.NoActionBar" parent="@*android:style/Theme.Material.NoActionBar">
-        <item name="colorPrimary">@android:color/holo_blue_light</item>
-        <item name="colorPrimaryDark">@android:color/holo_blue_dark</item>
-        <item name="colorAccent">@android:color/holo_blue_bright</item>
-        <item name="android:statusBarColor">@android:color/holo_blue_dark</item>
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
     </style>
 
     <style name="AlertDialog.DeviceDefault.Light" parent="@*android:style/Theme.DeviceDefault.Dialog" />

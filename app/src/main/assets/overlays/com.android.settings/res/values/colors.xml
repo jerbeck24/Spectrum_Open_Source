@@ -39,6 +39,7 @@
 
     <color name="usage_graph_dots">@*android:color/Teal_700</color>
 
+    <color name="lock_pattern_view_regular_color">@*android:color/Teal_700</color>
 
     <color name="cardview_light_background">@android:color/holo_purple</color>
     <color name="exposed_bg_light">@android:color/holo_blue_light</color>
@@ -95,6 +96,7 @@
     <color name="summary_default_start">@*android:color/Teal_700</color>
     <color name="summary_default_end">#ff999999</color>
 
+    <color name="storage_summary_title_color">@*android:color/Teal_700</color>
 
 
 

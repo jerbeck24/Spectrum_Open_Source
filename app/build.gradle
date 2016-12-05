@@ -8,8 +8,8 @@ android {
         applicationId "com.jerbeck24.Spectrum"
         minSdkVersion 23
         targetSdkVersion 24
-        versionCode 65
-        versionName "9.1"
+        versionCode 66
+        versionName "9.2"
     }
     buildTypes {
         def BOOLEAN = "boolean"
@@ -25,7 +25,7 @@ android {
             buildConfigField(BOOLEAN, SUBSTRATE_MODULE, TRUE)
         }
         release {
-            minifyEnabled false //Make true for release
+            minifyEnabled true //Make true for release
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             buildConfigField(BOOLEAN, ANTI_PIRACY, FALSE) //keep FALSE
             buildConfigField(BOOLEAN, SUBSTRATE_MODULE, TRUE)
