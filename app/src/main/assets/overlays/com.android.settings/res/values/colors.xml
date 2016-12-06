@@ -10,7 +10,7 @@
     <color name="unlock_pattern_view_regular_color">#ffffffff</color>
     <color name="material_empty_color_light">#ff9e9e9e</color>
     <color name="dashboard_background_color">@android:color/holo_blue_dark</color>
-    <color name="switchbar_background_color">@android:color/holo_blue_light</color>
+    <color name="switchbar_background_color">@android:color/holo_purple</color>
     <color name="switch_accent_color">@android:color/holo_blue_bright</color>
     <color name="wifi_divider">@android:color/holo_blue_bright</color>
     <color name="running_processes_apps_ram">#ffffffff</color>
@@ -98,7 +98,8 @@
 
     <color name="storage_summary_title_color">@*android:color/Teal_700</color>
 
-
+    <!-- Card Background of Suggestions on Main Settings Screen -->
+    <color name="card_background_grey">@android:color/holo_purple</color>
 
 
 

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <array name="batterymeter_color_values">
-        <item>#fff90101</item>
-        <item>#ff00933b</item>
-    </array>
-
-</resources>

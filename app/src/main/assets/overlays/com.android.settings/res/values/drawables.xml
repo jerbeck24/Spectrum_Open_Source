@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="drawable" name="expanded_item_bg">@android:color/holo_purple</item>
+
+    <item type="drawable" name="fp_enrollment_header_landscape">#ffbdb28b</item>
 </resources>

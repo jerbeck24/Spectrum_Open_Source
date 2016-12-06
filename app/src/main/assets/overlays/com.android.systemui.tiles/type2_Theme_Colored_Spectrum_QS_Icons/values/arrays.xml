@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <array name="batterymeter_color_values">
-        <item>@*android:color/battery_saver_mode_color</item>
-        <item>@*android:color/Teal_700</item>
-    </array>
-
-</resources>
