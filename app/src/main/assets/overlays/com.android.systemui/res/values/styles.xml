@@ -56,4 +56,14 @@
     <style name="TextAppearance.NotificationGuts.Radio" parent="@style/TextAppearance.NotificationGuts">
         <item name="android:alpha">1.0</item>
     </style>
+
+        <style name="DualToneLightTheme">
+            <item name="android:fillColor">#ffffffff</item>
+        </style>
+        <style name="DualToneDarkTheme">
+            <item name="android:fillColor">#ff000000</item>
+        </style>
+
+
+
 </resources>

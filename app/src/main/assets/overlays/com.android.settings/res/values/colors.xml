@@ -100,8 +100,7 @@
 
     <!-- Card Background of Suggestions on Main Settings Screen -->
     <color name="card_background_grey">@android:color/holo_purple</color>
-
-
-
+    <!-- Main BG for Settings -->
+    <color name="material_grey_300">@android:color/background_dark</color>
 
 </resources>
