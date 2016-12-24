@@ -12,3 +12,7 @@ gen/com/jerbeck24/Spectrum/Manifest.java
 gen/com/jerbeck24/Spectrum/R.java
 
 local.properties
+
+app/src/main/assets/overlays/.DS_Store
+
+app/src/main/assets/overlays/.DS_Store
