@@ -100,7 +100,13 @@
 
     <!-- Card Background of Suggestions on Main Settings Screen -->
     <color name="card_background_grey">@android:color/holo_purple</color>
+    <!-- Do Not Disturb card bg -->
+    <color name="condition_card_background_color">@android:color/holo_purple</color>
     <!-- Main BG for Settings -->
     <color name="material_grey_300">@android:color/background_dark</color>
+    <!-- Data Usage and Memory Usage Bar Colors -->
+    <color name="linear_color_bar_right">@*android:color/Teal_700</color>
+    <color name="linear_color_bar_left">#ffffff00</color>
+    <color name="linear_color_bar_middle">#ffff00ff</color>
 
 </resources>

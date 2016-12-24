@@ -112,7 +112,7 @@
     <color name="tertiary_text_holo_dark">@android:color/holo_blue_bright</color>
     <color name="tertiary_text_holo_light">@android:color/holo_blue_bright</color>
     <color name="accessibility_focus_highlight">@android:color/holo_blue_bright</color>
-    <color name="bright_foreground_holo_light">#ff00ff00</color>
+    <color name="bright_foreground_holo_light">@*android:color/Teal_700</color>
     <color name="link_text_dark">@*android:color/Teal_700</color>
     <color name="link_text_light">@*android:color/Teal_700</color>
     <color name="search_url_text_holo">@android:color/holo_blue_bright</color>
@@ -404,9 +404,9 @@
     <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_50">#fffafafa</color>
-
-    <color name="notification_text_default_color">@*android:color/Teal_700</color>
-    <color name="sender_text_color">@android:color/holo_blue_bright</color>
+    <!-- App Text and Icon Color in Notifications -->
+    <color name="notification_text_default_color">@android:color/holo_blue_bright</color>
+    <color name="sender_text_color">@*android:color/Teal_700</color>
 
     <!-- Status Bar Tint Color in Settings -->
     <color name="system_bar_background_semi_transparent">@android:color/transparent</color>
@@ -422,7 +422,7 @@
     <color name="primary_dark_device_default_dark">@android:color/background_dark</color>
     <color name="notification_action_list_dark">@android:color/background_dark</color>
 
-
+    <color name="accent_device_default_light">@android:color/holo_blue_bright</color>
 
 
 </resources>

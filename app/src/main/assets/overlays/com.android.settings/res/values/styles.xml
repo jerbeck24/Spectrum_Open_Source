@@ -28,7 +28,7 @@
     <style name="TextAppearance.CategoryTitle" parent="@*android:style/Theme.Material">
         <item name="android:textColor">@*android:color/Teal_700</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textSize">16.0sp</item>
+        <item name="android:textSize">18.0sp</item>
     </style>
 
     <style name="SecurityPreferenceButtonContainer" parent="@*android:style/Widget.Material.SegmentedButton">
