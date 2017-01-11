@@ -5,6 +5,7 @@
         <!-- @android:color/background_dark for NO OVERLAP, @android:drawable/menuitem_background for OVERLAP -->
         <item name="android:windowBackground">@*android:drawable/menuitem_background</item>
         <item name="android:colorBackground">@android:color/background_dark</item>
+        <item name="android:colorSecondary">@android:color/darker_gray</item>
 
         <!-- BG OF SUGGESTION CARD IN N WHEN TURNING OFF CELL DATA -->
         <item name="android:colorAccent">@android:color/holo_purple</item>

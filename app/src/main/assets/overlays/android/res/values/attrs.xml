@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <attr name="colorSecondary" format="color" />
     <attr name="internalLayout" format="reference" />
     <attr name="legacyLayout" format="reference" />
     <attr name="colorBackground" format="color" />

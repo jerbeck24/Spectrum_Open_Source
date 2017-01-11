@@ -18,10 +18,13 @@
     <!-- ??? -->
     <color name="status_bar_recents_app_label_color">#ffffffff</color>
     <color name="notification_list_shadow_top">#80ffffff</color>
-    <color name="batterymeter_frame_color">#66ffffff</color>
+    <!-- Status bar and QS background of battery color - as it is dying -->
+    <color name="batterymeter_frame_color">@*android:color/Blue_700</color> <!-- was #4dffffff -->
     <color name="batterymeter_charge_color">@android:color/holo_blue_bright</color>
+    <!-- ??? -->
     <color name="batterymeter_bolt_color">#ffffff00</color>
-    <color name="qs_batterymeter_frame_color">#ff404040</color>
+    <!-- ??? -->
+    <color name="qs_batterymeter_frame_color">#ff00ffff</color> <!-- was #ff404040 -->
     <color name="system_warning_color">#ffb33a3a</color>
     <color name="qs_text">@android:color/holo_blue_bright</color>
     <color name="qs_tile_divider">@*android:color/Teal_700</color>
@@ -146,6 +149,7 @@
 
     <!-- Edit BG for QS -->
     <color name="qs_edit_item_decoration_bg">@android:color/background_dark</color>
+
     <!-- More Settings and Done text when pressing tiles -->
     <color name="qs_detail_button">@*android:color/Teal_700</color>
 
@@ -168,6 +172,14 @@
     <!-- QS date usage text color -->
     <color name="data_usage_primary">@android:color/holo_blue_bright</color>
 
+    <color name="smartbar_editor_popup_background">@android:color/background_dark</color>
+    <color name="smartbar_editor_popup_text">@android:color/white</color>
+    <color name="smartbar_editor_popup_icon_fill">@*android:color/Teal_700</color>
+    <color name="smartbar_editor_popup_horiz_separator">@*android:color/Teal_700</color>
 
+
+    <color name="dark_mode_icon_color_single_tone">#ffaaaaaa</color>
+    <color name="dark_mode_icon_color_dual_tone_background">#5caaaaaa</color>
+    <color name="dark_mode_icon_color_dual_tone_fill">#ffaaaaaa</color>
 
 </resources>

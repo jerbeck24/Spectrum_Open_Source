@@ -109,4 +109,7 @@
     <color name="linear_color_bar_left">#ffffff00</color>
     <color name="linear_color_bar_middle">#ffff00ff</color>
 
+    <color name="external_tile_tint_color">#00000000</color>
+
+
 </resources>

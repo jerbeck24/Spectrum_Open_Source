@@ -6,7 +6,7 @@
     <color name="holo_blue_bright">#ff99d5cf</color> <!-- Main Accent Color in App -->
     <color name="Teal_700">#ff66c0b7</color> <!-- Colors Category Titles in Settings amongst other things -->
     <!-- Secondary Color on N -->
-    <color name="Blue_700">#ff66c0b7</color>
+    <color name="Blue_700">#4d66c0b7</color>
 
 
 

@@ -39,6 +39,11 @@
         <item name="android:statusBarColor">@android:color/holo_blue_dark</item>
     </style>
 
-
+    <style name="Theme.Material.Settings" parent="@android:style/Theme.Material" >
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="colorSecondary">@android:color/darker_gray</item>
+    </style>
 
 </resources>
