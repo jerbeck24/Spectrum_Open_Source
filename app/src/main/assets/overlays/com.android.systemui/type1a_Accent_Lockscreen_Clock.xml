@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="clock_white">@android:color/holo_blue_bright</color> <!-- was #ffffffff -->
+    <color name="clock_gray">@*android:color/Teal_700</color> <!-- was #80ffffff -->
+
+</resources>

@@ -80,6 +80,8 @@
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
         <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
         <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <!-- Switchbar background in Settings -->
+        <item name="colorSecondary">@android:color/darker_gray</item>
     </style>
     <style name="Theme.Material.Settings.BaseDialog" parent="@*android:style/Theme.Material.BaseDialog">
         <item name="android:colorPrimary">@android:color/holo_blue_light</item>
@@ -247,9 +249,32 @@
     </style>
 
     <style name="Theme.Leanback.Settings.Dialog.Alert" parent="@*android:style/Theme.DeviceDefault.Dialog">
-        <item name="android:colorBackground">@*android:color/background_dark</item>
+        <item name="android:colorBackground">@android:color/background_dark</item>
         <item name="android:textColorPrimary">@*android:color/Teal_700</item>
         <item name="android:textColorSecondary">#ffdddddd</item>
     </style>
+
+    <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@*android:style/Theme.Material">
+        <item name="android:colorBackground">@android:color/background_dark</item>
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:textColorSecondary">#ffdddddd</item>
+    </style>
+
+    <style name="Theme.DeviceDefault.Dark" parent="@*android:style/Theme.Material" />
+    <style name="Theme.Material.Light.Dialog.Alert" parent="@*android:style/Theme.Material.Dialog" />
+
+    <style name="HeavyWeightSwitcherActivityTheme" parent="@*android:style/Theme.Material.Dialog" />
+    <style name="ChooseAccountActivityTheme" parent="@*android:style/Theme.Material.Dialog" />
+    <style name="ChooseTypeAndAccountActivityTheme" parent="@*android:style/Theme.Material.Dialog" />
+    <style name="ChooseAccountTypeActivityTheme" parent="@*android:style/Theme.Material.Dialog" />
+    <style name="CantAddAccountActivityTheme" parent="@*android:style/Theme.Material.Dialog.NoActionBar" />
+    <style name="GrantCredentialsPermissionActivityTheme" parent="@*android:style/Theme.Material.DialogWhenLarge" />
+    <style name="SyncActivityTooManyDeletesTheme" parent="@*android:style/Theme.Material.Dialog" />
+    <style name="NetInitiatedActivityTheme" parent="@*android:style/Theme.Material.Dialog.Alert" />
+    <style name="ConfirmUserCreationActivityTheme" parent="@*android:style/Theme.Material.Dialog.Alert" />
+    <style name="UnlaunchableAppActivityTheme" parent="@*android:style/Theme.Material.Dialog.Alert" />
+
+
+
 
 </resources>

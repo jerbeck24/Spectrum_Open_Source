@@ -111,5 +111,9 @@
 
     <color name="external_tile_tint_color">#00000000</color>
 
+    <color name="gestures_setting_background_color">@android:color/background_dark</color>
+    <color name="gestures_switchbar_color">@android:color/holo_purple</color>
+
+    <color name="expanded_item_app_name">#ffffffff</color>
 
 </resources>

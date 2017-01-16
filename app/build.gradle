@@ -8,8 +8,8 @@ android {
         applicationId "com.jerbeck24.Spectrum"
         minSdkVersion 23
         targetSdkVersion 24
-        versionCode 66
-        versionName "9.2"
+        versionCode 73
+        versionName "10.4"
     }
     buildTypes {
         def BOOLEAN = "boolean"
