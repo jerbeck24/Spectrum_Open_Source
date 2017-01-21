@@ -105,8 +105,9 @@
     <!-- Main BG for Settings -->
     <color name="material_grey_300">@android:color/background_dark</color>
     <!-- Data Usage and Memory Usage Bar Colors -->
-    <color name="linear_color_bar_right">@*android:color/Teal_700</color>
-    <color name="linear_color_bar_left">#ffffff00</color>
+    <color name="linear_color_bar_right">#ffcccccc</color>
+    <!-- Data Usage Bar -->
+    <color name="linear_color_bar_left">@android:color/holo_blue_bright</color>
     <color name="linear_color_bar_middle">#ffff00ff</color>
 
     <color name="external_tile_tint_color">#00000000</color>
