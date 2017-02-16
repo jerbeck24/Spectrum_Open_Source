@@ -44,4 +44,6 @@
     <attr name="textColorSecondary" format="reference|color" />
     <attr name="imeFullscreenBackground" format="reference|color" />
     <attr name="windowActionBar" format="boolean" />
+    <attr name="textSize" format="dimension" />
+    <attr name="headerTextColor" format="color" />
 </resources>

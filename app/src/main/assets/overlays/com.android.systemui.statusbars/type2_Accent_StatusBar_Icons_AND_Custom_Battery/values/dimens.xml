@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="signal_cluster_battery_padding">0.0dip</dimen>
+    <dimen name="no_signal_cluster_battery_padding">0.0dip</dimen>
+
+</resources>

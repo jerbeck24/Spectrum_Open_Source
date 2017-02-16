@@ -17,7 +17,8 @@
     </style>
     <style name="Theme.SystemUI.Dialog.Alert" parent="@*android:style/Theme.Material.Dialog.Alert" />
     <style name="Theme.AlertDialogHost" parent="@*android:style/Theme.Material">
-        <item name="android:windowBackground">@*android:color/transparent</item>
+        <!-- Background for Pixolor pop-up and various other pop-ups -->
+        <item name="android:windowBackground">@android:color/background_dark</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsFloating">true</item>
         <item name="android:windowIsTranslucent">true</item>
@@ -57,8 +58,9 @@
         <item name="android:alpha">1.0</item>
     </style>
 
+    <!-- Quick Reply Background in Notifications -->
     <style name="systemui_theme_remote_input" parent="@*android:style/Theme.Material">
-        <item name="android:background">@*android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
         <item name="android:backgroundTint">@android:color/background_dark</item>
         <item name="android:colorControlActivated">@*android:color/Teal_700</item>
     </style>

@@ -3,7 +3,7 @@
 
     <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material.Settings">
         <!-- @android:color/background_dark for NO OVERLAP, @android:drawable/menuitem_background for OVERLAP -->
-        <item name="android:windowBackground">@*android:drawable/menuitem_background</item>
+        <item name="android:windowBackground">@android:color/background_dark</item>
         <item name="android:colorBackground">@android:color/background_dark</item>
 
         <!-- BG OF SUGGESTION CARD IN N WHEN TURNING OFF CELL DATA -->
@@ -27,8 +27,10 @@
 
     <style name="TextAppearance.CategoryTitle" parent="@*android:style/Theme.Material">
         <item name="android:textColor">@*android:color/Teal_700</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textScaleX">0</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">16.0sp</item>
     </style>
 
     <style name="SecurityPreferenceButtonContainer" parent="@*android:style/Widget.Material.SegmentedButton">
@@ -60,7 +62,13 @@
     <style name="Theme.SettingsLicenseActivity" parent="@*android:style/Theme.Material.Panel" />
     <style name="Theme.AppPicker" parent="@*android:style/Theme.Material.Dialog" />
 
-
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:textColorPrimary">@*android:color/Teal_700</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+    </style>
 
 
 </resources>

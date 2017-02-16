@@ -21,7 +21,7 @@
     <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material">
         <item name="android:colorBackground">@android:color/background_dark</item>
         <!-- CARD OVERLAP @android:color/background_dark for NO OVERLAP, @android:drawable/menuitem_background for OVERLAP -->
-        <item name="android:windowBackground">@*android:drawable/menuitem_background</item>
+        <item name="android:windowBackground">@android:color/background_dark</item>
         <!-- Text in settings when turning off data or on hotspot or something similar -->
         <item name="android:textColorPrimaryInverse">#ffbc13fe</item>
     </style>

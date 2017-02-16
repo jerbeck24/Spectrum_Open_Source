@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <clip-path
+        android:name="mask"
+        android:pathData="M7.3075217 13.297566l0 -9.3130835 4.6924783 0 4.692478 0 0 9.3130835 0 9.313084 -4.692478 0 -4.6924783 0 0 -9.313084z" />
+
+    <group
+        android:translateY="0">
+
+    <path
+        android:name="battery_level"
+        android:fillColor="#ff000000"
+        android:pathData="M7.3075217 22.60565l0 -0.0 4.6924783 0 4.692478 0 0 0.0 0 0.0 -4.692478 0 -4.6924783 0 0 -0.0z" />
+    </group>
+</vector>
+
+
+
+

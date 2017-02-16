@@ -4,4 +4,5 @@
     <item type="id" name="background" />
     <item type="id" name="secondaryProgress" />
     <item type="id" name="progress" />
+    <item type="id" name="main_content">false</item>
 </resources>

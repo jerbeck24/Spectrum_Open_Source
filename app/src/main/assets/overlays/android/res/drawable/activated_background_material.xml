@@ -5,6 +5,7 @@
         <color android:color="#ff404040" />
     </item>
     <item>
-        <color android:color="#00000000" />
+        <!-- background when turning on and off permissions -->
+        <color android:color="@android:color/background_dark" />
     </item>
 </selector>
