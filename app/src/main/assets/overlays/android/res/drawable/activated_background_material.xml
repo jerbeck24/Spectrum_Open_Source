@@ -2,10 +2,10 @@
 <selector
   xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_activated="true">
-        <color android:color="#ff404040" />
+        <color android:color="#00000000" />
     </item>
     <item>
         <!-- background when turning on and off permissions -->
-        <color android:color="@android:color/background_dark" />
+        <color android:color="#00000000" />
     </item>
 </selector>

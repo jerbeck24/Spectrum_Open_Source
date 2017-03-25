@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Teal_700">#ff8a304e</color> <!-- Colors Category Titles in Settings amongst other things -->
+    <!-- Secondary Color on N -->
+    <color name="Blue_700">#4d8a304e</color>
+    <color name="holo_blue_bright">#ffddc999</color> <!-- Main Accent Color in App -->
+    <color name="holo_blue_light">@android:color/background_dark</color> <!-- Actionbar Color -->
+    <color name="holo_blue_dark">@android:color/background_dark</color> <!-- Status Bar Color -->
+
+
+
+
+
+
+
+
+    <!--
+    <color name="holo_purple">#ff000000</color>
+    -->
+
+</resources>

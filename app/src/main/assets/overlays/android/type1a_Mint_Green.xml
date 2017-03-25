@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="holo_blue_light">#ff97c9a0</color>
-    <color name="holo_blue_dark">#ff84b08c</color>
-    <color name="holo_blue_bright">#ffdefde4</color>
     <color name="Teal_700">#ffbdfcc9</color>
     <!-- Secondary Color on N -->
     <color name="Blue_700">#4dbdfcc9</color>
+    <color name="holo_blue_bright">#ffdefde4</color>
+    <color name="holo_blue_light">#ff97c9a0</color>
+    <color name="holo_blue_dark">#ff84b08c</color>
+
+
 
 
 

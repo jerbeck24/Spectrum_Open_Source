@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="holo_blue_light">#ffcc0e00</color>
-    <color name="holo_blue_dark">#ffb20c00</color>
-    <color name="holo_blue_bright">#ffeeba30</color> <!-- Main Accent Color in App -->
     <color name="Teal_700">#ffff1200</color> <!-- Colors Category Titles in Settings amongst other things -->
     <!-- Secondary Color on N -->
     <color name="Blue_700">#ffff1200</color>
+    <color name="holo_blue_bright">#ffeeba30</color> <!-- Main Accent Color in App -->
+    <color name="holo_blue_light">#ffcc0e00</color>
+    <color name="holo_blue_dark">#ffb20c00</color>
+
+
 
 
 

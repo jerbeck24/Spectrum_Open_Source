@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="system_secondary_color">@android:color/holo_blue_dark</color> <!-- Background of upper qs -->
     <color name="system_accent_color">@android:color/holo_blue_bright</color>
     <color name="icon_color_default">@*android:color/Teal_700</color>
@@ -22,7 +23,7 @@
     <!-- Status bar and QS background of battery color - as it is dying -->
     <color name="batterymeter_frame_color">#4dffffff</color> <!-- was #4dffffff -->
     <color name="batterymeter_charge_color">@android:color/holo_blue_bright</color>
-    <!-- ??? -->
+    <!-- Color of bolt when charging on some ROMs -->
     <color name="batterymeter_bolt_color">#ffffff00</color>
     <!-- ??? -->
     <color name="qs_batterymeter_frame_color">#ff00ffff</color> <!-- was #ff404040 -->
@@ -53,6 +54,8 @@
     <color name="keyguard_affordance">#ffffffff</color>
     <!-- ??? -->
     <color name="notification_legacy_background_color">@android:color/background_dark</color>
+    <!-- Text color for app and icon in notifications -->
+    <color name="notification_default_color">#ffffff00</color>
     <!-- Bar behind multiple notifications -->
     <color name="notification_material_background_color">@*android:color/Indigo_700</color>
     <color name="notification_material_background_dimmed_color">@*android:color/Indigo_700</color>
@@ -182,5 +185,8 @@
     <color name="dark_mode_icon_color_single_tone">#ffaaaaaa</color>
     <color name="dark_mode_icon_color_dual_tone_background">#5caaaaaa</color>
     <color name="dark_mode_icon_color_dual_tone_fill">#ffaaaaaa</color>
+
+
+
 
 </resources>

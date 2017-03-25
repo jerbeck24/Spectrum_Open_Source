@@ -16,7 +16,7 @@
     <!-- Android System Notification Title Text Color -->
     <color name="system_notification_accent_color">@android:color/holo_blue_bright</color>
     <color name="secondary_text_default_material_light">#ffcccccc</color>
-    <color name="background_floating_material_dark">@android:color/holo_purple</color>
+    <color name="background_floating_material_dark">@android:color/background_dark</color>
     <color name="background_material_dark">@android:color/background_dark</color>
 
     <color name="background_leanback_dark">@android:color/background_dark</color>
@@ -174,7 +174,6 @@
 
     <!-- Background of navbar when keyboard is open -->
     <color name="input_method_navigation_guard">@android:color/background_dark</color>
-    <drawable name="search_bar_default_color">@android:color/holo_purple</drawable>
 
     <color name="datepicker_default_normal_text_color_material_light">@*android:color/Teal_700</color>
     <color name="datepicker_default_header_dayofweek_background_color_material_light">@*android:color/Teal_700</color>
@@ -318,7 +317,6 @@
 
     <color name="Blue_800">#ff2a56c6</color>
 
-    <color name="Indigo_800">#ff283593</color>
     <color name="Purple_700">#ff7b1fa2</color>
     <color name="Purple_800">#ff6a1b9a</color>
     <color name="Pink_700">#ffc2185b</color>

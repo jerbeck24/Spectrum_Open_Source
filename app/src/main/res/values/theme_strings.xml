@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ThemeAuthor">Themer: Jeremy Beck\nUpdated: March 16, 2017 (12.0)</string>
+    <string name="ThemeName">Spectrum</string>
+
+    <string-array name="ThemeChangelog">
+        <item>Changed Huel-Freeze Accent Color!</item>
+        <item>Fixed landscape background for keyboards!</item>
+        <item>Updated Gboard!</item>
+        <item>Added Huel-Liquid Accent Color!</item>
+        <item>Added Huel-Machina Accent Color!</item>
+        <item></item>
+        <item>More Bug Fixes!</item>
+    </string-array>
+</resources>

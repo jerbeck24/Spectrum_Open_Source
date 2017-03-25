@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="holo_blue_light">@android:color/background_dark</color>
-    <color name="holo_blue_dark">@android:color/background_dark</color>
     <color name="holo_blue_bright">#ff33b5e5</color>
     <color name="Teal_700">#ff00ff00</color>
     <!-- Secondary Color on N -->
     <color name="Blue_700">#4d00ff00</color>
+    <color name="holo_blue_light">@android:color/background_dark</color>
+    <color name="holo_blue_dark">@android:color/background_dark</color>
+
 
 
 

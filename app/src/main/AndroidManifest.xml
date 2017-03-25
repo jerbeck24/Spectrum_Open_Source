@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="substratum.theme.template">
+          package="substratum.theme.template"
+          android:installLocation="internalOnly">
 
         <uses-permission android:name="com.android.vending.CHECK_LICENSE"/>
         <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
+    <uses-feature
+        android:name="projekt.substratum.theme"
+        android:required="false" /> <!-- Set to true for block to be enabled -->
+
         <application
-            android:allowBackup="true"
+            android:allowBackup="false"
             android:icon="@drawable/icon"
             android:label="@string/ThemeName"
             android:supportsRtl="true"
-            android:theme="@style/AppTheme"
+            android:theme="@style/DialogStyle"
             tools:node="replace">
 
             <activity android:name="substratum.theme.template.SubstratumLauncher">
+                <intent-filter>
+                    <action android:name="projekt.substratum.THEME"/>
+                    <category android:name="android.intent.category.DEFAULT"/>
+                </intent-filter>
                 <intent-filter>
                     <action android:name="android.intent.action.MAIN"/>
                 </intent-filter>
@@ -40,10 +49,16 @@
                 android:value="http://pastebin.com/raw/sqaSq8A4"/>
             <meta-data
                 android:name="Substratum_Plugin"
-                android:value="5.1.2"/>
+                android:value="7.0.2"/>
+
 
 
         </application>
 
+<!-- Change to true for OMS ROM support ONLY (Wouldn't support Legacy)
+    <uses-feature
+        android:name="projekt.substratum.theme"
+        android:required="false" />
+ -->
 
 </manifest>
